@@ -8,7 +8,7 @@ I will update as I notice my browser filling up again with trash.
 
 #Installation/import
 
-Recommended method is to import this list into your game. This will add to any blacklisting you may have already done.
+Recommended method is to import this list into your game. This will add to any blacklisting you may have already done.  
 Download the "server_blacklist.txt" file from here to a location you remember. Can delete the file after import  
 Open CS:S  
 Open the server browser  
