@@ -6,6 +6,9 @@ I will update as I notice my browser filling up again with trash.
 
 -BallGanda  
 
+Guide from another user on steam with pictures. Use his guide with my updated file
+https://steamcommunity.com/sharedfiles/filedetails/?id=3013281836  
+
 #Installation/import
 
 Recommended method is to import this list into your game. This will add to any blacklisting you may have already done.  
