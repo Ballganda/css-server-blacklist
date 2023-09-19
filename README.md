@@ -1,6 +1,7 @@
 # CS:S-server-blacklist
 
-This is my server blacklist file to block the giant cess pool of fake servers that started to appear is CS:S in 2023  
+This is my STRICT server blacklist file to block the giant cess pool of fake servers that started to appear is CS:S in 2023
+In this STRICT version I also blacklisted any server over 160 ping, nonsteam advertising servers, and v34/92 advertising servers.  
 
 I will update as I notice my browser filling up again with trash.   
 
