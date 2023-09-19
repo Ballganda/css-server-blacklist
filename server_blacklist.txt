@@ -113730,4 +113730,3928 @@
 		"date"		"1694119995"
 		"addr"		"91.211.118.149:27053"
 	}
+	"server"
+	{
+		"name"		"LOOS.CF | Only Dust2 | CSDM [24/7] "
+		"date"		"1694121506"
+		"addr"		"205.178.177.24:11111"
+	}
+	"server"
+	{
+		"name"		"LOOS.CF | Only Office | CSDM [24/7]"
+		"date"		"1694121507"
+		"addr"		"205.178.177.24:22222"
+	}
+	"server"
+	{
+		"name"		"     .::BHOP::. BUNNYHOP ● JUMPS (1/32)"
+		"date"		"1694121508"
+		"addr"		"142.132.201.209:40020"
+	}
+	"server"
+	{
+		"name"		"     .::DM::. DEATHMATH ● DRIVE (6/32)"
+		"date"		"1694121509"
+		"addr"		"142.132.201.209:41000"
+	}
+	"server"
+	{
+		"name"		"     .::DR::. Бег на выживание ● DEATHRUN (1/32"
+		"date"		"1694121510"
+		"addr"		"142.132.201.209:30500"
+	}
+	"server"
+	{
+		"name"		"     .::GG::. GUNGAME ● EASY (0/24)"
+		"date"		"1694121511"
+		"addr"		"142.132.201.209:51500"
+	}
+	"server"
+	{
+		"name"		"     .::JB::. JAILBREAK ● MAFIA (0/32)"
+		"date"		"1694121512"
+		"addr"		"142.132.201.209:51050"
+	}
+	"server"
+	{
+		"name"		"     .::MG::. MINIGAMES ● EASY"
+		"date"		"1694121513"
+		"addr"		"142.132.201.209:35000"
+	}
+	"server"
+	{
+		"name"		"     .::PUBLIC::. INTERNATIONAL ● SKINS (5/32)"
+		"date"		"1694121514"
+		"addr"		"142.132.201.209:40000"
+	}
+	"server"
+	{
+		"name"		"     .::ZE::. ZOMBIE ● ESCAPE [16+] (0/32)"
+		"date"		"1694121515"
+		"addr"		"142.132.201.209:42000"
+	}
+	"server"
+	{
+		"name"		"     .::ZM::. ZOMBIE ● EVOLUTION [16+] (8/32)"
+		"date"		"1694121516"
+		"addr"		"142.132.201.209:51300"
+	}
+	"server"
+	{
+		"name"		"     .::ZRIOT::. ZOMBIE ● SURVIVAL DEMO [16+] (1/30)"
+		"date"		"1694121517"
+		"addr"		"142.132.201.209:51200"
+	}
+	"server"
+	{
+		"name"		"(SuperSick) Zombie Escape | FastDL"
+		"date"		"1694121518"
+		"addr"		"15.235.181.53:27015"
+	}
+	"server"
+	{
+		"name"		"-=?? SURF DM ??"
+		"date"		"1694121520"
+		"addr"		"51.77.239.9:27000"
+	}
+	"server"
+	{
+		"name"		"-=₪۩۞█ AWP █mralone█"
+		"date"		"1694121521"
+		"addr"		"5.196.162.33:27019"
+	}
+	"server"
+	{
+		"name"		"[EUFrag.com] Bunnyhop | New Web Stats! >> bhop.eufrag.com"
+		"date"		"1694121522"
+		"addr"		"157.90.133.105:27015"
+	}
+	"server"
+	{
+		"name"		"[EUFrag.com] Minigame | Course | Timer | Multigame | Store"
+		"date"		"1694121523"
+		"addr"		"157.90.133.105:27016"
+	}
+	"server"
+	{
+		"name"		"[EUFrag.com] Zombie Escape (0/64) FREE VIP | FastDL"
+		"date"		"1694121524"
+		"addr"		"157.90.133.105:27018"
+	}
+	"server"
+	{
+		"name"		"[EUFrag.com] Zombie Revival | Unlimited Ammo | !store | !daily"
+		"date"		"1694121525"
+		"addr"		"157.90.133.105:27019"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] Zombie Escape 24/7 | Rank | SSD | FastDL"
+		"date"		"1694121526"
+		"addr"		"92.119.148.14:27015"
+	}
+	"server"
+	{
+		"name"		"[HappyHour] UNLOZE | Zombie Escape 2 | NoSteam | Stage: [1]"
+		"date"		"1694121527"
+		"addr"		"135.125.188.157:27035"
+	}
+	"server"
+	{
+		"name"		"[ZombieMod] Dead Man Walking | Doompact.net [RU/EN]"
+		"date"		"1694121528"
+		"addr"		"148.251.50.70:27015"
+	}
+	"server"
+	{
+		"name"		"]=[ ZombieNetwork ]=[ Zombie Riot"
+		"date"		"1694121529"
+		"addr"		"148.251.50.70:27010"
+	}
+	"server"
+	{
+		"name"		"Devide | Surf Combat - RankMe - Nospread (0/20)"
+		"date"		"1694121530"
+		"addr"		"178.32.125.70:27015"
+	}
+	"server"
+	{
+		"name"		"FR  ★  FREE FOR ALL - MAPS OFFICIELLES  ★  hellz.fr"
+		"date"		"1694121531"
+		"addr"		"87.98.181.40:27015"
+	}
+	"server"
+	{
+		"name"		"FR █▓ GUNGAME TURBO || TICK 100 ▓█ hellz.fr"
+		"date"		"1694121532"
+		"addr"		"87.98.155.38:27017"
+	}
+	"server"
+	{
+		"name"		"FR █▓ ZOMBIEMOD | FULL AMMO ▓█ hellz.fr"
+		"date"		"1694121534"
+		"addr"		"87.98.152.38:27016"
+	}
+	"server"
+	{
+		"name"		"FR █▓ ZOMBIEMOD | FULL AMMO ▓█ hellz.fr"
+		"date"		"1694121535"
+		"addr"		"87.98.152.38:27015"
+	}
+	"server"
+	{
+		"name"		"HL2GO.COM - Only Dust2 CSDM #1 [US] [24/7]"
+		"date"		"1694121536"
+		"addr"		"45.141.52.24:27015"
+	}
+	"server"
+	{
+		"name"		"HL2GO.COM - Only Dust2 CSDM #2 [CA] [24/7]"
+		"date"		"1694121537"
+		"addr"		"149.56.107.118:27150"
+	}
+	"server"
+	{
+		"name"		"MOSCOW BATTLEGROUND [DE_DUST II] FREE VIP 100 tick"
+		"date"		"1694121538"
+		"addr"		"176.9.140.120:27017"
+	}
+	"server"
+	{
+		"name"		"SPB | Realism Pro server         @hardcore_mod"
+		"date"		"1694121539"
+		"addr"		"176.117.139.58:27218"
+	}
+	"server"
+	{
+		"name"		"UNLOZE | FastDL | Ranking [ZRiot Day: 7/11]"
+		"date"		"1694121540"
+		"addr"		"135.125.188.157:27016"
+	}
+	"server"
+	{
+		"name"		"UNLOZE | JailBreak | Hosties | FastDL"
+		"date"		"1694121541"
+		"addr"		"135.125.188.157:27023"
+	}
+	"server"
+	{
+		"name"		"UNLOZE | Minigames | FastDL | Ranking"
+		"date"		"1694121542"
+		"addr"		"135.125.188.157:27017"
+	}
+	"server"
+	{
+		"name"		"ZOMBIE REVIVAL |MONDIALCS.COM"
+		"date"		"1694121543"
+		"addr"		"141.94.99.151:27015"
+	}
+	"server"
+	{
+		"name"		"Zombie Revival ● NiDE.GG ● Unlimited Ammo|Shop"
+		"date"		"1694121544"
+		"addr"		"149.202.65.122:27000"
+	}
+	"server"
+	{
+		"name"		"★ BB23.eu - 35hp (ONLY KNIFE) | FastDL | ♥ TICK 100 ♥"
+		"date"		"1694121545"
+		"addr"		"45.137.68.22:27500"
+	}
+	"server"
+	{
+		"name"		"★ BB23.eu - Bunnyhop (AutoBHOP) | FastDL | ♥ TICK 100 ♥"
+		"date"		"1694121546"
+		"addr"		"45.137.68.22:27400"
+	}
+	"server"
+	{
+		"name"		"★ BB23.eu - COURSE PARKOUR | FastDL [TICK 100] ☰"
+		"date"		"1694121548"
+		"addr"		"45.137.68.22:27900"
+	}
+	"server"
+	{
+		"name"		"★ BB23.eu - SLIDE | FastDL [TICK 100] ☰"
+		"date"		"1694121549"
+		"addr"		"45.137.68.22:27100"
+	}
+	"server"
+	{
+		"name"		"★ BB23.eu POOLPARTY (NO RUSH) | FastDL | ♥ ALL WEAPONS ♥"
+		"date"		"1694121550"
+		"addr"		"45.137.68.22:27010"
+	}
+	"server"
+	{
+		"name"		"★ BB23.eu POOLPARTY (NO RUSH) | FastDL | ♥ NO AWP ♥"
+		"date"		"1694121551"
+		"addr"		"45.137.68.22:27700"
+	}
+	"server"
+	{
+		"name"		"Весёлая Свиноферма [dust2 - БЕЗ АВП]"
+		"date"		"1694121552"
+		"addr"		"46.174.55.170:8888"
+	}
+	"server"
+	{
+		"name"		"Zombie Hunting V1 by ElitE HunterZ |Looking 4 Admins|Rank|Respa"
+		"date"		"1694121579"
+		"addr"		"54.37.245.51:27015"
+	}
+	"server"
+	{
+		"name"		"Zombie Hunting V3 by ElitE HunterZ |All Weapons|Rank|Respawn|"
+		"date"		"1694121580"
+		"addr"		"54.37.245.51:27045"
+	}
+	"server"
+	{
+		"name"		"| DEATHMATCH | DE_DUST2 | CEPBEP |"
+		"date"		"1694121581"
+		"addr"		"212.193.55.208:27016"
+	}
+	"server"
+	{
+		"name"		"★ ★ ★ GunGame Сервачок RaYMaN'а  ★ ★ ★"
+		"date"		"1694121582"
+		"addr"		"188.134.70.104:27017"
+	}
+	"server"
+	{
+		"name"		"★ ★ ★ Сервачок RaYMaN'а  ★ ★ ★"
+		"date"		"1694121584"
+		"addr"		"188.134.70.104:27015"
+	}
+	"server"
+	{
+		"name"		"Setti CSS DeathMatch"
+		"date"		"1694121612"
+		"addr"		"95.217.204.189:27017"
+	}
+	"server"
+	{
+		"name"		"Setti CSS Dust2"
+		"date"		"1694121613"
+		"addr"		"95.217.204.189:27016"
+	}
+	"server"
+	{
+		"name"		"Setti CSS server"
+		"date"		"1694121614"
+		"addr"		"95.217.204.189:27015"
+	}
+	"server"
+	{
+		"name"		"[Krsk]Krasnoyarsk@2023 [Public] 21+Скины cs go"
+		"date"		"1694121733"
+		"addr"		"46.174.50.160:27015"
+	}
+	"server"
+	{
+		"name"		"[PUBLIC] PULI4KI 18+ / Puli4ki.ru"
+		"date"		"1694121734"
+		"addr"		"46.174.49.162:27015"
+	}
+	"server"
+	{
+		"name"		"[UA] .::|Marlboro Public|::. |CS:S v.92|"
+		"date"		"1694121735"
+		"addr"		"91.211.118.88:27036"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ Bunnyhop Server"
+		"date"		"1694121736"
+		"addr"		"178.32.60.130:27026"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ Clan Server"
+		"date"		"1694121737"
+		"addr"		"178.32.60.130:27015"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ DeathMatch Server"
+		"date"		"1694121738"
+		"addr"		"178.32.60.130:27031"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ Football Server"
+		"date"		"1694121739"
+		"addr"		"178.32.60.130:27033"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ GunGame Server"
+		"date"		"1694121740"
+		"addr"		"178.32.60.130:27027"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ HungerGames Server"
+		"date"		"1694121741"
+		"addr"		"178.32.60.130:27036"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ JailBreak [Eng] Server"
+		"date"		"1694121742"
+		"addr"		"178.32.60.130:27028"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ MiniGame Server"
+		"date"		"1694121743"
+		"addr"		"178.32.60.130:27019"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ ScoutzKnivez Server"
+		"date"		"1694121745"
+		"addr"		"178.32.60.130:27034"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ Surf Server"
+		"date"		"1694121746"
+		"addr"		"178.32.60.130:27025"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ Trikz Server"
+		"date"		"1694121747"
+		"addr"		"178.32.60.130:27029"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ Zombie Server"
+		"date"		"1694121748"
+		"addr"		"178.32.60.130:27018"
+	}
+	"server"
+	{
+		"name"		"]HeLL[ ZombieEscape Server"
+		"date"		"1694121749"
+		"addr"		"178.32.60.130:27032"
+	}
+	"server"
+	{
+		"name"		"BCM Arena"
+		"date"		"1694121750"
+		"addr"		"31.43.157.18:2401"
+	}
+	"server"
+	{
+		"name"		"BCM DeathMatch"
+		"date"		"1694121751"
+		"addr"		"31.43.157.18:2301"
+	}
+	"server"
+	{
+		"name"		"BCM Dust2 Only"
+		"date"		"1694121752"
+		"addr"		"31.43.157.18:2801"
+	}
+	"server"
+	{
+		"name"		"BCM GunGame"
+		"date"		"1694121753"
+		"addr"		"31.43.157.18:2501"
+	}
+	"server"
+	{
+		"name"		"BCM Hell Public"
+		"date"		"1694121754"
+		"addr"		"31.43.157.18:2601"
+	}
+	"server"
+	{
+		"name"		"BCM Office Only"
+		"date"		"1694121755"
+		"addr"		"31.43.157.18:2701"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source Server #1"
+		"date"		"1694121756"
+		"addr"		"79.164.142.69:27015"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source GunGame Server v6630498"
+		"date"		"1694121758"
+		"addr"		"89.179.240.119:27077"
+	}
+	"server"
+	{
+		"name"		"FuSe Arena Public Test"
+		"date"		"1694121759"
+		"addr"		"23.88.73.88:21463"
+	}
+	"server"
+	{
+		"name"		"K I E V ✪ [Public 21+] No Pro ► UA/EU"
+		"date"		"1694121760"
+		"addr"		"91.211.118.246:11111"
+	}
+	"server"
+	{
+		"name"		"Manel4ikStice Source"
+		"date"		"1694121761"
+		"addr"		"91.211.118.90:27034"
+	}
+	"server"
+	{
+		"name"		"Only 2000 by Clan-Banderos.de By CoCo"
+		"date"		"1694121762"
+		"addr"		"136.243.102.107:27040"
+	}
+	"server"
+	{
+		"name"		"testt"
+		"date"		"1694121763"
+		"addr"		"91.211.118.246:22222"
+	}
+	"server"
+	{
+		"name"		"the devil doesn't sleep"
+		"date"		"1694121764"
+		"addr"		"46.174.52.2:27235"
+	}
+	"server"
+	{
+		"name"		"VBIOS #3 | Arena | 93 maps"
+		"date"		"1694121765"
+		"addr"		"185.154.180.46:27015"
+	}
+	"server"
+	{
+		"name"		"~Exclusive server CS:SOURCE himikellserv (no-steam)~"
+		"date"		"1694121766"
+		"addr"		"89.179.71.21:27018"
+	}
+	"server"
+	{
+		"name"		"~|Himikellserv CS:SOURCE|~"
+		"date"		"1694121767"
+		"addr"		"89.179.71.21:27037"
+	}
+	"server"
+	{
+		"name"		"█ |UA| Радикальний PUB [CSS_UA] 18+ █"
+		"date"		"1694121768"
+		"addr"		"91.211.118.80:27030"
+	}
+	"server"
+	{
+		"name"		"█ |UA| Укpaїнcький пaблiк [CSS_UA] 18+ [CS:GO]█"
+		"date"		"1694121769"
+		"addr"		"91.211.118.88:27029"
+	}
+	"server"
+	{
+		"name"		"█ |UA| Український MIX [CSS_UA] 18+ █  [+10]"
+		"date"		"1694121771"
+		"addr"		"91.211.118.80:27029"
+	}
+	"server"
+	{
+		"name"		"»» [EU] Team:Deathmatch | Dust2 only | FastDL | mgc-le.de"
+		"date"		"1694121772"
+		"addr"		"167.235.246.253:27025"
+	}
+	"server"
+	{
+		"name"		"»» Turbo GunGame:DM | !give | NoBlock | FastDL | mgc-le.de "
+		"date"		"1694121773"
+		"addr"		"167.235.246.253:27015"
+	}
+	"server"
+	{
+		"name"		"	Libre Gaming | JailBreak | FastDL"
+		"date"		"1694121782"
+		"addr"		"74.91.119.26:27015"
+	}
+	"server"
+	{
+		"name"		"	Libre Gaming | MiniGames | FastDL"
+		"date"		"1694121783"
+		"addr"		"74.91.119.26:27016"
+	}
+	"server"
+	{
+		"name"		"	ʟɪʙʀᴇ ᴅᴀʀᴋ | EPIC DEATHMATCH | 100ᴛɪᴄᴋ | R"
+		"date"		"1694121784"
+		"addr"		"74.91.119.26:27019"
+	}
+	"server"
+	{
+		"name"		"	ʟɪʙʀᴇ ᴅᴀʀᴋ | EPIC ROTATION | 100ᴛɪᴄᴋ | PUB"
+		"date"		"1694121785"
+		"addr"		"74.91.119.26:27017"
+	}
+	"server"
+	{
+		"name"		"	ʟɪʙʀᴇ ᴅᴀʀᴋ | WILD SURF | 100ᴛɪᴄᴋ | SURF DM"
+		"date"		"1694121787"
+		"addr"		"74.91.119.26:27018"
+	}
+	"server"
+	{
+		"name"		"  | .Bad-NG 1 | PUBLIC - BeginnerFriendly|gameME"
+		"date"		"1694121788"
+		"addr"		"178.63.48.21:27035"
+	}
+	"server"
+	{
+		"name"		"  | .Bad-NG 3 | 24/7 Aim_Deagle7k - Deathmatch|HS|gameME"
+		"date"		"1694121789"
+		"addr"		"178.63.48.21:27135"
+	}
+	"server"
+	{
+		"name"		" Deathmatch Clan-Banderos.de By CoCo"
+		"date"		"1694121790"
+		"addr"		"136.243.102.107:27215"
+	}
+	"server"
+	{
+		"name"		"МЯСОРУБКА © DUST2 [GO-MEAT.RU]"
+		"date"		"1694122280"
+		"addr"		"46.174.53.40:27015"
+	}
+	"server"
+	{
+		"name"		"МЯСОРУБКА © $2000$ [GO-MEAT.RU]"
+		"date"		"1694122301"
+		"addr"		"46.174.48.129:27015"
+	}
+	"server"
+	{
+		"name"		".::+18 Молодость::. [CSGO] СКИНЫ| king18.ru"
+		"date"		"1694229347"
+		"addr"		"37.230.210.173:27015"
+	}
+	"server"
+	{
+		"name"		".::FLAG::. OLIMPIC ● GAMES"
+		"date"		"1694229349"
+		"addr"		"217.114.43.119:51200"
+	}
+	"server"
+	{
+		"name"		"[-GAME4EX.RU-]|ПАРАНОЙЯ+18|DEATHMATCH|CTF|"
+		"date"		"1694229350"
+		"addr"		"62.122.213.38:27015"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] DА\"
+		"date"		"1694229351"
+		"addr"		"46.174.49.239:7777"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] EXTREME - CSS-FUN.RU | LVL | VIP | CW"
+		"date"		"1694229352"
+		"addr"		"194.93.2.144:44444"
+	}
+	"server"
+	{
+		"name"		"[Omega-Portal.Ru] #2 <Bhop> [Autobhop] [Timer] [Styles] [Ranks]"
+		"date"		"1694229353"
+		"addr"		"46.174.53.79:27015"
+	}
+	"server"
+	{
+		"name"		"[PUB] Война Скинов [Оружия CS:GO]"
+		"date"		"1694229354"
+		"addr"		"46.174.50.136:27015"
+	}
+	"server"
+	{
+		"name"		"[Undying Rangers] Zombie Escape (RUS)"
+		"date"		"1694229355"
+		"addr"		"37.230.162.133:27020"
+	}
+	"server"
+	{
+		"name"		"[WAFG] ZOMBIE REVIVAL :: WAFGAMERS.COM ::"
+		"date"		"1694229356"
+		"addr"		"193.70.81.170:27015"
+	}
+	"server"
+	{
+		"name"		"[WAFG] ZOMBIE REVIVAL :: WAFGAMERS.COM ::"
+		"date"		"1694229357"
+		"addr"		"37.230.210.237:27015"
+	}
+	"server"
+	{
+		"name"		"BCM Italy Only"
+		"date"		"1694229358"
+		"addr"		"31.43.157.18:2901"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source DM/GG Server #1"
+		"date"		"1694229359"
+		"addr"		"79.164.142.69:27019"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source Server #2"
+		"date"		"1694229360"
+		"addr"		"79.164.142.69:27016"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [cs_militia only]"
+		"date"		"1694229362"
+		"addr"		"89.179.240.119:27069"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [cs_office only]"
+		"date"		"1694229363"
+		"addr"		"89.179.240.119:27067"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [de_aztec only]"
+		"date"		"1694229364"
+		"addr"		"89.179.240.119:27073"
+	}
+	"server"
+	{
+		"name"		"Champions club |Deathmatch|"
+		"date"		"1694229365"
+		"addr"		"37.230.210.212:27015"
+	}
+	"server"
+	{
+		"name"		"Classic(RU) General (S V O)"
+		"date"		"1694229366"
+		"addr"		"37.228.89.244:27018"
+	}
+	"server"
+	{
+		"name"		"DUST2 ★ РУССКАЯ РУЛЕТКА 18+ ★ Cкины CS:GO"
+		"date"		"1694229367"
+		"addr"		"46.174.54.70:11111"
+	}
+	"server"
+	{
+		"name"		"FABRIKA [Deathmatch]"
+		"date"		"1694229368"
+		"addr"		"194.93.2.176:27015"
+	}
+	"server"
+	{
+		"name"		"LEGENDA[K58] CSS"
+		"date"		"1694229369"
+		"addr"		"93.191.58.206:27015"
+	}
+	"server"
+	{
+		"name"		"MyArena.ru :: RPG + CSDM"
+		"date"		"1694229370"
+		"addr"		"46.174.52.9:27246"
+	}
+	"server"
+	{
+		"name"		"YAVA Project™ | Only Awp Lego 2 | CSS 92+"
+		"date"		"1694229371"
+		"addr"		"46.174.48.15:27224"
+	}
+	"server"
+	{
+		"name"		"• NOVA • GunGame •"
+		"date"		"1694229372"
+		"addr"		"62.122.213.138:27015"
+	}
+	"server"
+	{
+		"name"		"█   РОЖДЕННЫЕ В СССР   █"
+		"date"		"1694229373"
+		"addr"		"46.174.50.192:27777"
+	}
+	"server"
+	{
+		"name"		"◄ █ ZOMBIE HUNTING █ COVID-19 █ SKINS █ PARACHUTE █"
+		"date"		"1694229374"
+		"addr"		"178.63.14.49:27015"
+	}
+	"server"
+	{
+		"name"		"✖ KYIV ₪ UKRAINIAN ₪ PUBLIC ₪ SERVER ✖"
+		"date"		"1694229375"
+		"addr"		"91.211.118.80:27026"
+	}
+	"server"
+	{
+		"name"		"АВП.НЕТ™"
+		"date"		"1694229377"
+		"addr"		"46.174.54.194:44444"
+	}
+	"server"
+	{
+		"name"		"АТМОСФЕРА СИБИРИ 18+ © nskbratva.ru"
+		"date"		"1694229378"
+		"addr"		"46.174.49.149:9999"
+	}
+	"server"
+	{
+		"name"		"СТАРИЧКИ ®"
+		"date"		"1694229379"
+		"addr"		"46.174.51.138:11111"
+	}
+	"server"
+	{
+		"name"		"СУРОВЫЙ ХАРАКТЕР 18+ [Прятки] 24/7"
+		"date"		"1694229380"
+		"addr"		"46.174.50.30:27226"
+	}
+	"server"
+	{
+		"name"		"Чёрный Дельфин [JailBreak]"
+		"date"		"1694229381"
+		"addr"		"62.122.213.26:27015"
+	}
+	"server"
+	{
+		"name"		"ПОСИДЕЛКИ У КОСТРА 18+"
+		"date"		"1694229382"
+		"addr"		"46.174.55.46:27015"
+	}
+	"server"
+	{
+		"name"		"	Z -=RuSerV-#1-BASIC-(de_dust2)-[ZLOYGAMES.COM]=-"
+		"date"		"1694229403"
+		"addr"		"185.189.15.17:27015"
+	}
+	"server"
+	{
+		"name"		"	Z -=RuSerV-#2-Deathmatch-(de_dust2)-[ZLOYGAMES.COM]=-"
+		"date"		"1694229404"
+		"addr"		"185.189.15.17:27016"
+	}
+	"server"
+	{
+		"name"		" ( ͡° ͜ʖ ͡°) .:SEX WITH ZOMBIES:. HUNTING"
+		"date"		"1694229405"
+		"addr"		"37.230.210.38:27015"
+	}
+	"server"
+	{
+		"name"		" ( ͡° ͜ʖ ͡°) DEATHRUN .:SEX WITH BHOP:. ДЕЗРАН"
+		"date"		"1694229406"
+		"addr"		"62.122.214.88:27015"
+	}
+	"server"
+	{
+		"name"		"WC3 NสŘǾĐ™ | www.WCS.su | FAST XP [RUS] | many races"
+		"date"		"1694372158"
+		"addr"		"62.122.215.21:27015"
+	}
+	"server"
+	{
+		"name"		"~[ZMWARS]~ | Zombie Mod| Fast DL| Nosteam"
+		"date"		"1694372159"
+		"addr"		"91.211.118.167:27015"
+	}
+	"server"
+	{
+		"name"		"██ Маша и Медведи ██ ★ Public ★"
+		"date"		"1694372160"
+		"addr"		"31.129.102.203:44444"
+	}
+	"server"
+	{
+		"name"		"██ Сибирские Волки ██ ★ $2000$ ★"
+		"date"		"1694372161"
+		"addr"		"31.129.102.203:55555"
+	}
+	"server"
+	{
+		"name"		"◄ █ ZOMBIE REVIVAL █ COVID-19 █▌ FREE VIP ▐▌ SHOP"
+		"date"		"1694372162"
+		"addr"		"178.63.14.49:27018"
+	}
+	"server"
+	{
+		"name"		"★ UA ★ 18+ ❤ PARADISE ❤ UKRAINE ❤ "
+		"date"		"1694372338"
+		"addr"		"91.211.118.82:27066"
+	}
+	"server"
+	{
+		"name"		"★ css.ez-host.eu ★ [PUBLIC][DUST2][18+]"
+		"date"		"1694372339"
+		"addr"		"188.174.156.120:27027"
+	}
+	"server"
+	{
+		"name"		"★ [R*]ussian-INSTINCT ★ [NO-STEAM][18+]"
+		"date"		"1694372340"
+		"addr"		"88.99.148.185:27015"
+	}
+	"server"
+	{
+		"name"		"onlyfans for /vg/vm/"
+		"date"		"1694372572"
+		"addr"		"75.133.252.244:27015"
+	}
+	"server"
+	{
+		"name"		"[v34] ►MAGIC◄►Империя Зомби◄"
+		"date"		"1694373233"
+		"addr"		"94.228.168.76:34299"
+	}
+	"server"
+	{
+		"name"		"# Хабаровский[pub]"
+		"date"		"1694464072"
+		"addr"		"87.225.106.239:28998"
+	}
+	"server"
+	{
+		"name"		"-=Dx=-★Dx中隊伺服器"
+		"date"		"1694464073"
+		"addr"		"220.133.203.234:27020"
+	}
+	"server"
+	{
+		"name"		"[0人]<<老玩家>>竞技娱乐混战服务器[纯净服]"
+		"date"		"1694464075"
+		"addr"		"47.122.1.139:27016"
+	}
+	"server"
+	{
+		"name"		"[CN]嘉兴1#-娱乐混战服务器 [=中国加油=]"
+		"date"		"1694464076"
+		"addr"		"1.13.176.196:27015"
+	}
+	"server"
+	{
+		"name"		"[CN]嘉兴2#-混战嘉年华服务器 [=玩家选图=]"
+		"date"		"1694464077"
+		"addr"		"1.13.154.120:27015"
+	}
+	"server"
+	{
+		"name"		"[CN]嘉兴3#-崛起之戰死鬥服 V1.00 [=團戰模式=]"
+		"date"		"1694464078"
+		"addr"		"1.13.154.120:27017"
+	}
+	"server"
+	{
+		"name"		"[HK][BOT]-DeathMatch Within Minimaps"
+		"date"		"1694464079"
+		"addr"		"103.145.61.89:27015"
+	}
+	"server"
+	{
+		"name"		"[IRAN] Ronix Counter-Strike: Source"
+		"date"		"1694464080"
+		"addr"		"193.151.155.44:27015"
+	}
+	"server"
+	{
+		"name"		"[JP] はいぱーばとる 202X (ExpBoost)"
+		"date"		"1694464081"
+		"addr"		"110.67.7.60:27016"
+	}
+	"server"
+	{
+		"name"		"[KR] EVO RPG"
+		"date"		"1694464082"
+		"addr"		"118.33.24.80:27015"
+	}
+	"server"
+	{
+		"name"		"[KR] Yatta Surf Timer | 100 Tick | Asia"
+		"date"		"1694464083"
+		"addr"		"222.114.173.88:27015"
+	}
+	"server"
+	{
+		"name"		"[KR] 봇전쟁 (플레이어 VS 봇) ☆★"
+		"date"		"1694464084"
+		"addr"		"121.168.118.184:27025"
+	}
+	"server"
+	{
+		"name"		"[Senser.tw]CS:S Server (Taiwan)"
+		"date"		"1694464085"
+		"addr"		"220.130.108.125:27097"
+	}
+	"server"
+	{
+		"name"		"[TW] ڴPiRiT™ 永不止戰 死鬥伺服器"
+		"date"		"1694464087"
+		"addr"		"114.32.60.157:27015"
+	}
+	"server"
+	{
+		"name"		"[TW]V!PER~*惡靈古堡殭屍伺服器"
+		"date"		"1694464088"
+		"addr"		"114.33.16.105:27015"
+	}
+	"server"
+	{
+		"name"		"CS:S Server"
+		"date"		"1694464089"
+		"addr"		"4.193.126.105:27015"
+	}
+	"server"
+	{
+		"name"		"CS:S™杂牌服务器²⁰¹³"
+		"date"		"1694464090"
+		"addr"		"220.173.37.13:27015"
+	}
+	"server"
+	{
+		"name"		"I v I的5v5练枪服[66tick] 有事ministerpig@163.com"
+		"date"		"1694464091"
+		"addr"		"171.115.221.87:27015"
+	}
+	"server"
+	{
+		"name"		"KASOK.NET #MSK CSS MEAT"
+		"date"		"1694464092"
+		"addr"		"95.165.92.105:27016"
+	}
+	"server"
+	{
+		"name"		"KASOK.NET #VDK CSS MEAT"
+		"date"		"1694464093"
+		"addr"		"95.154.109.7:27016"
+	}
+	"server"
+	{
+		"name"		"LeeTestServer"
+		"date"		"1694464094"
+		"addr"		"120.48.52.104:27015"
+	}
+	"server"
+	{
+		"name"		"ZEDBOX.CN|僵尸暴动RPG|Rouge|符卡|1/8天|群304606519 ZEDB"
+		"date"		"1694464095"
+		"addr"		"183.131.85.109:27050"
+	}
+	"server"
+	{
+		"name"		"❤Pinky's 2V2服务器(100tick)Q群529056675"
+		"date"		"1694464096"
+		"addr"		"49.232.49.170:23333"
+	}
+	"server"
+	{
+		"name"		"「CSBA」ッ穿越火线低手营[混战|100Tick]"
+		"date"		"1694464098"
+		"addr"		"81.70.180.246:27015"
+	}
+	"server"
+	{
+		"name"		"虾米混战服 群号885037924 无社区地图 游玩请注意"
+		"date"		"1694464099"
+		"addr"		"81.69.160.128:27015"
+	}
+	"server"
+	{
+		"name"		"MIX#2 | -Дерзкие СуЧкИ- [В ожидании: 10]"
+		"date"		"1694464199"
+		"addr"		"46.174.52.5:27215"
+	}
+	"server"
+	{
+		"name"		"[Mix] Для Своих [Waiting: 10]"
+		"date"		"1694464200"
+		"addr"		"46.174.50.10:27238"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S CW/MIX 2 [В ожидании: 10]"
+		"date"		"1694464201"
+		"addr"		"176.126.167.77:28002"
+	}
+	"server"
+	{
+		"name"		"NZ/AU 48 Player Vanilla Rotation [100 TICK]"
+		"date"		"1694464202"
+		"addr"		"101.98.246.236:27015"
+	}
+	"server"
+	{
+		"name"		"████►|DTK|#3 Office DM 100TICK"
+		"date"		"1694464203"
+		"addr"		"45.121.211.145:27176"
+	}
+	"server"
+	{
+		"name"		"[AU|NZ] AUSREIGN |WWW.AUSREIGN.COM TO REQUEST MAPS|"
+		"date"		"1694464204"
+		"addr"		"45.121.210.91:27053"
+	}
+	"server"
+	{
+		"name"		"-uPwn>UtmostPwnage.net :: Dog's GRFix5 Autohop, noFDMG"
+		"date"		"1694464206"
+		"addr"		"221.121.158.121:27025"
+	}
+	"server"
+	{
+		"name"		"████►|DTK|#9 NILLA/ROTATION 100TICK"
+		"date"		"1694464207"
+		"addr"		"103.1.213.78:27053"
+	}
+	"server"
+	{
+		"name"		"████►|DTK|#5 Deathmatch - All Maps"
+		"date"		"1694464208"
+		"addr"		"45.121.211.145:27158"
+	}
+	"server"
+	{
+		"name"		"КИБЕР СИБИРЬ | AUTOMIX #1 [В ожидании: 10]"
+		"date"		"1694464209"
+		"addr"		"109.237.108.101:1111"
+	}
+	"server"
+	{
+		"name"		"jfxjfxjfxjfxjfx"
+		"date"		"1694464210"
+		"addr"		"103.1.213.251:27053"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S MiniGames | SHOP | VIP"
+		"date"		"1694464211"
+		"addr"		"176.126.167.77:27016"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S Zombie Reloaded"
+		"date"		"1694464212"
+		"addr"		"176.126.167.77:26003"
+	}
+	"server"
+	{
+		"name"		"████►|DTK|#4 GUNGAME  [Playing: Gungame - Normal]"
+		"date"		"1694464213"
+		"addr"		"45.121.211.145:27051"
+	}
+	"server"
+	{
+		"name"		"1MAN!! 46 Player #1 Full Rotation"
+		"date"		"1694464214"
+		"addr"		"103.1.213.78:27035"
+	}
+	"server"
+	{
+		"name"		"-AUS MASTERS- FULL ON..."
+		"date"		"1694464215"
+		"addr"		"54.66.7.177:27015"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S Public Classic"
+		"date"		"1694464216"
+		"addr"		"176.126.167.77:27002"
+	}
+	"server"
+	{
+		"name"		"STREAMLINE-SERVERS.COM | GunGame Deathmatch [HL:Stats]"
+		"date"		"1694464218"
+		"addr"		"45.121.211.113:27195"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S CW/MIX 1 [В ожидании: 10]"
+		"date"		"1694464219"
+		"addr"		"176.126.167.77:28001"
+	}
+	"server"
+	{
+		"name"		"████►|DTK|#2 MultiMode [Playing: Surf Combat]"
+		"date"		"1694464220"
+		"addr"		"45.121.211.145:27015"
+	}
+	"server"
+	{
+		"name"		"[ﮎқµlls] servers Gun Game Death Match"
+		"date"		"1694464221"
+		"addr"		"51.161.198.144:27018"
+	}
+	"server"
+	{
+		"name"		"-AUS MASTERS- ZOMBIE ESCAPE"
+		"date"		"1694464222"
+		"addr"		"202.171.171.129:27016"
+	}
+	"server"
+	{
+		"name"		"Community CS:S [Sydney:AU]"
+		"date"		"1694464223"
+		"addr"		"125.63.61.53:50451"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S ONLY HeadShot"
+		"date"		"1694464224"
+		"addr"		"176.126.167.77:27500"
+	}
+	"server"
+	{
+		"name"		"Boris' Surf Leet 2019 RE-LAUNCH! RANK/REDIE/NO FALL DAMAGE"
+		"date"		"1694464225"
+		"addr"		"108.61.185.96:27115"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S BunnyHop"
+		"date"		"1694464226"
+		"addr"		"176.126.167.77:27017"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S DeatMatch"
+		"date"		"1694464227"
+		"addr"		"176.126.167.77:26001"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S MiniMaps | VIP"
+		"date"		"1694464228"
+		"addr"		"176.126.167.77:27001"
+	}
+	"server"
+	{
+		"name"		"momentum waiting room"
+		"date"		"1694464230"
+		"addr"		"45.32.242.254:27020"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S AWP 2x2 [В ожидании: 4]"
+		"date"		"1694464231"
+		"addr"		"176.126.167.77:28003"
+	}
+	"server"
+	{
+		"name"		"GAMER.KG | CS:S GunGame Server"
+		"date"		"1694464232"
+		"addr"		"176.126.167.77:26002"
+	}
+	"server"
+	{
+		"name"		"Scary Chery - Test Server"
+		"date"		"1694464233"
+		"addr"		"45.121.209.12:27053"
+	}
+	"server"
+	{
+		"name"		"WEASEL-LINE.SEMAJA2.NET | GunGame Deathmatch"
+		"date"		"1694464234"
+		"addr"		"203.147.99.169:27015"
+	}
+	"server"
+	{
+		"name"		"-AUS MASTERS- FULL ON..x2 "
+		"date"		"1694464235"
+		"addr"		"202.171.171.129:27015"
+	}
+	"server"
+	{
+		"name"		"BlackSquad GunGame DM FFA GameME"
+		"date"		"1694464236"
+		"addr"		"221.121.133.33:27021"
+	}
+	"server"
+	{
+		"name"		"BlackSquad Vanilla Server GameME"
+		"date"		"1694464237"
+		"addr"		"221.121.133.26:27019"
+	}
+	"server"
+	{
+		"name"		"BlackSquad RPG Server (+BOTS) GameME"
+		"date"		"1694464238"
+		"addr"		"221.121.133.26:27016"
+	}
+	"server"
+	{
+		"name"		"BlackSquad WCS Server (+BOTS) GameME"
+		"date"		"1694464239"
+		"addr"		"221.121.133.26:27017"
+	}
+	"server"
+	{
+		"name"		"[ZRiot Day: 16/18] BlackSquad Zombie Riot + Hardcore RPG Server"
+		"date"		"1694464241"
+		"addr"		"221.121.133.26:27020"
+	}
+	"server"
+	{
+		"name"		"[ZRiot Day: 15/18] BlackSquad Zombie Riot + WCS Server GameME"
+		"date"		"1694464242"
+		"addr"		"221.121.133.26:27018"
+	}
+	"server"
+	{
+		"name"		"BlackSquad RPG Server (+BOTS) HARDCORE GameME"
+		"date"		"1694464243"
+		"addr"		"221.121.133.26:27015"
+	}
+	"server"
+	{
+		"name"		"██► CSrating ◄██|► MiX ◄| #3 [Waiting: 10]"
+		"date"		"1694464244"
+		"addr"		"62.113.97.161:27017"
+	}
+	"server"
+	{
+		"name"		"[+35] CSS GUNGAME 5.1 SERVER"
+		"date"		"1694464245"
+		"addr"		"203.23.178.6:27063"
+	}
+	"server"
+	{
+		"name"		"Zombie_WCS-VIP_Store_zprops"
+		"date"		"1694464246"
+		"addr"		"203.23.178.6:27053"
+	}
+	"server"
+	{
+		"name"		"[SWE] Dubbelklicka.net tickrate 66 "
+		"date"		"1694464463"
+		"addr"		"185.166.232.4:27015"
+	}
+	"server"
+	{
+		"name"		"*** -ATEG MG- CS:S"
+		"date"		"1694464464"
+		"addr"		"87.162.21.151:27016"
+	}
+	"server"
+	{
+		"name"		"{van} host server 16 of 18: deathmatch with easy bots!"
+		"date"		"1694464465"
+		"addr"		"77.37.141.72:27030"
+	}
+	"server"
+	{
+		"name"		"▀▄▀▄ [DM]AWP ONLY [NO-VIP][No-Music] ▀▄▀▄ "
+		"date"		"1694464466"
+		"addr"		"78.36.196.84:27017"
+	}
+	"server"
+	{
+		"name"		"{van} host server 7 of 18: deathmatch with easy bots!"
+		"date"		"1694464467"
+		"addr"		"77.37.141.72:27021"
+	}
+	"server"
+	{
+		"name"		"▀▄▀▄ KOENIG-CSS #1[LR][!SHOP][!VIPTEST] ▀▄▀▄ "
+		"date"		"1694464469"
+		"addr"		"78.36.196.84:27015"
+	}
+	"server"
+	{
+		"name"		"{van} host server 4 of 18: deathmatch with easy bots!"
+		"date"		"1694464470"
+		"addr"		"77.37.141.72:27018"
+	}
+	"server"
+	{
+		"name"		"[CS:S STEAM] Новый сервер"
+		"date"		"1694464471"
+		"addr"		"94.241.171.45:27301"
+	}
+	"server"
+	{
+		"name"		"WEBA CS:Source Server"
+		"date"		"1694464472"
+		"addr"		"37.153.1.40:27015"
+	}
+	"server"
+	{
+		"name"		"RUS|Москва*ONLY Dust2*|БезМата|"
+		"date"		"1694464473"
+		"addr"		"46.174.54.161:27015"
+	}
+	"server"
+	{
+		"name"		"Pikabu ORI CSSource"
+		"date"		"1694464474"
+		"addr"		"80.90.188.39:27015"
+	}
+	"server"
+	{
+		"name"		"|GIWIG-Gaming|ClanServer,CustomMAPs,NoHighPing,GERMAN"
+		"date"		"1694464475"
+		"addr"		"148.251.69.190:27015"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1694464476"
+		"addr"		"89.179.242.119:27015"
+	}
+	"server"
+	{
+		"name"		".:::HamburgerJungz x Reddy:::. | GunGame Turbo | Oldschool"
+		"date"		"1694464477"
+		"addr"		"23.88.112.176:27015"
+	}
+	"server"
+	{
+		"name"		"-=ДеДуШкИ РУЛЯТ=-"
+		"date"		"1694464478"
+		"addr"		"46.174.48.49:27294"
+	}
+	"server"
+	{
+		"name"		"Tiroteio no CS @CGBGames"
+		"date"		"1694464514"
+		"addr"		"177.54.157.34:27251"
+	}
+	"server"
+	{
+		"name"		"#2 ☣ToxiC☣ x MDQservers [MIX]"
+		"date"		"1694464515"
+		"addr"		"45.235.98.222:27161"
+	}
+	"server"
+	{
+		"name"		"[ARG] The Brownd Experience | brownd.net.ar | CStrike Source"
+		"date"		"1694464516"
+		"addr"		"181.44.111.128:27016"
+	}
+	"server"
+	{
+		"name"		"#1 Barra Libre - Argentina [PUB/MULTIMOD]"
+		"date"		"1694464517"
+		"addr"		"149.50.129.246:37015"
+	}
+	"server"
+	{
+		"name"		"Cuiaba 4fun CSS @ 2023"
+		"date"		"1694464518"
+		"addr"		"177.54.146.118:27065"
+	}
+	"server"
+	{
+		"name"		"GR  |Garryshost"
+		"date"		"1694464520"
+		"addr"		"45.235.98.240:27045"
+	}
+	"server"
+	{
+		"name"		"|<<<<Pajines>>>>| -=PUB|Revival mode=-By Garryshost"
+		"date"		"1694464521"
+		"addr"		"45.235.98.241:27045"
+	}
+	"server"
+	{
+		"name"		"-= Mac-Infectus ArG =- #1 Publico | Garryshost"
+		"date"		"1694464522"
+		"addr"		"45.235.98.242:27053"
+	}
+	"server"
+	{
+		"name"		"-= Mac-Infectus ArG =- #3 Fun Maps By Garryhost"
+		"date"		"1694464523"
+		"addr"		"45.235.98.242:27080"
+	}
+	"server"
+	{
+		"name"		"[GOST] 15 ANOS DEATHMATCH ORIGINAL @CLANSERVERS.COM.BR"
+		"date"		"1694464524"
+		"addr"		"131.196.198.205:27460"
+	}
+	"server"
+	{
+		"name"		"RATANABÁ - O SERVIDOR VERMELHO!"
+		"date"		"1694464525"
+		"addr"		"177.153.51.37:27015"
+	}
+	"server"
+	{
+		"name"		"### - [IRMANDADE] GunGame Invertido"
+		"date"		"1694464526"
+		"addr"		"177.153.51.33:27015"
+	}
+	"server"
+	{
+		"name"		"#1 ☣ToxiC☣ x MDQservers [PUB] [Cambia en 17:09]"
+		"date"		"1694464527"
+		"addr"		"45.235.98.222:27160"
+	}
+	"server"
+	{
+		"name"		"MU-Server-ARG|!shop |!weapon |FastDL"
+		"date"		"1694464528"
+		"addr"		"181.24.151.51:27016"
+	}
+	"server"
+	{
+		"name"		"AbNeR Server - 4FUN/16k/REVIVAL"
+		"date"		"1694464530"
+		"addr"		"129.148.56.80:27015"
+	}
+	"server"
+	{
+		"name"		"░ SUPREMOS ░ 6 ANOS | DUST2 4FUN @CLANSERVERS.COM.BR"
+		"date"		"1694464531"
+		"addr"		"131.196.198.205:27260"
+	}
+	"server"
+	{
+		"name"		"[NO FEAR] DEATHMATCH BR @CLANSERVERS.COM.BR"
+		"date"		"1694464532"
+		"addr"		"131.196.198.205:27360"
+	}
+	"server"
+	{
+		"name"		"Legion Linux Gamers CS:S Server"
+		"date"		"1694464533"
+		"addr"		"186.53.178.207:27016"
+	}
+	"server"
+	{
+		"name"		"ANJOS DA NOITE BEST MAPS GAMEME"
+		"date"		"1694464534"
+		"addr"		"131.196.198.205:27400"
+	}
+	"server"
+	{
+		"name"		"NSBR - Nosso Server BR DEATHMATCH - NSBR"
+		"date"		"1694464535"
+		"addr"		"216.238.106.91:27015"
+	}
+	"server"
+	{
+		"name"		".:Radio4ctiv3:. MULTIMOD STORE ARGENTINA By Garryshost"
+		"date"		"1694464536"
+		"addr"		"45.235.98.91:27080"
+	}
+	"server"
+	{
+		"name"		"L@DO™ | O CLÃ DE AMIGOS"
+		"date"		"1694464537"
+		"addr"		"181.215.236.206:27015"
+	}
+	"server"
+	{
+		"name"		"-= Mac-Infectus ArG =- #2 MIX| Garryshost"
+		"date"		"1694464538"
+		"addr"		"45.235.98.242:27051"
+	}
+	"server"
+	{
+		"name"		"-= OldServers.com.ar =- # Modo Clasico"
+		"date"		"1694464540"
+		"addr"		"160.20.247.59:28934"
+	}
+	"server"
+	{
+		"name"		"LatINs™ [PUB-MIX] By Garryshost"
+		"date"		"1694464541"
+		"addr"		"45.235.98.239:27025"
+	}
+	"server"
+	{
+		"name"		"Micho Tito By Garryshost"
+		"date"		"1694464542"
+		"addr"		"45.235.98.243:27025"
+	}
+	"server"
+	{
+		"name"		"[BR] -=[ REGGAE POWER ]=- #02 GUNGAME INVERTIDO - !cw"
+		"date"		"1694464543"
+		"addr"		"131.196.198.205:27540"
+	}
+	"server"
+	{
+		"name"		"NSBR - Nosso Server BR DEATMATCH - Beta"
+		"date"		"1694464544"
+		"addr"		"216.238.98.160:27015"
+	}
+	"server"
+	{
+		"name"		"CSS Server By Garryshost"
+		"date"		"1694464545"
+		"addr"		"45.235.98.240:27075"
+	}
+	"server"
+	{
+		"name"		"#5 ☣ToxiC☣ x MDQservers [MIX]"
+		"date"		"1694464546"
+		"addr"		"45.235.98.222:27164"
+	}
+	"server"
+	{
+		"name"		"        [TOTAL] MINIGAME (128 Tick)@totalhosting.com.br"
+		"date"		"1694464547"
+		"addr"		"216.238.101.92:27115"
+	}
+	"server"
+	{
+		"name"		"LACTOBACLOS  -= DUST2 4EVER =-"
+		"date"		"1694464548"
+		"addr"		"104.234.224.127:27015"
+	}
+	"server"
+	{
+		"name"		"NSBR - DM FFA Only Dust 2 - NSBR"
+		"date"		"1694464549"
+		"addr"		"45.179.91.41:30030"
+	}
+	"server"
+	{
+		"name"		"[WARZONE_BR] 4FUN • REVIVAL MODE • ALL MAPS"
+		"date"		"1694464551"
+		"addr"		"131.196.198.246:27740"
+	}
+	"server"
+	{
+		"name"		"G.3.X-DEATHMATCH-BR-DUST.2"
+		"date"		"1694464552"
+		"addr"		"131.196.198.246:27730"
+	}
+	"server"
+	{
+		"name"		"ALIENS BRASIL MIX @CLANSERVERS"
+		"date"		"1694464553"
+		"addr"		"131.196.198.206:27200"
+	}
+	"server"
+	{
+		"name"		"LACTOBACLOS  -= DEATHMATCH =-"
+		"date"		"1694464554"
+		"addr"		"104.234.224.127:27020"
+	}
+	"server"
+	{
+		"name"		"|La Bandurriaaa| |#1| |PUB/DM| |ARG| By Garryshost"
+		"date"		"1694464555"
+		"addr"		"45.235.98.242:27030"
+	}
+	"server"
+	{
+		"name"		"[BR]MERCENÁRIOS CLÃ SERVER [THE BEST ALL SERVERS] @CLANSERVER"
+		"date"		"1694464556"
+		"addr"		"131.196.198.206:27300"
+	}
+	"server"
+	{
+		"name"		"NSBR - DEATHMATCH [Reserva] - NSBR"
+		"date"		"1694464557"
+		"addr"		"131.196.198.206:27320"
+	}
+	"server"
+	{
+		"name"		"Anjustcore.com | Dinastia-Strike [PUB]"
+		"date"		"1694464565"
+		"addr"		"168.195.128.62:27015"
+	}
+	"server"
+	{
+		"name"		"#4 ☣ToxiC☣ x MDQservers [BHOP](coming soon...)"
+		"date"		"1694464625"
+		"addr"		"45.235.98.222:27163"
+	}
+	"server"
+	{
+		"name"		"Alsbr Server -= BRASIL =-  -= 4FUN > MIX > VIPS > RESUSCITATION"
+		"date"		"1694464626"
+		"addr"		"189.11.16.37:27015"
+	}
+	"server"
+	{
+		"name"		"#3 ☣ToxiC☣ x MDQServers[MULTIMOD][STEAM] [Cambia en 0:02]"
+		"date"		"1694464627"
+		"addr"		"45.235.98.222:27162"
+	}
+	"server"
+	{
+		"name"		"BANID0S Dust2_ DEATHMATCH"
+		"date"		"1694464628"
+		"addr"		"152.67.47.253:27015"
+	}
+	"server"
+	{
+		"name"		"[Helarikerho2] Suomen kaikista kovin publa"
+		"date"		"1694464629"
+		"addr"		"78.27.96.85:27015"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1694464630"
+		"addr"		"200.123.123.172:27033"
+	}
+	"server"
+	{
+		"name"		"CSS Server"
+		"date"		"1694464632"
+		"addr"		"131.196.198.205:27940"
+	}
+	"server"
+	{
+		"name"		"wcs cardu"
+		"date"		"1694464633"
+		"addr"		"200.140.118.200:27015"
+	}
+	"server"
+	{
+		"name"		"NOME @CLANSERVERS"
+		"date"		"1694464634"
+		"addr"		"131.196.198.207:27300"
+	}
+	"server"
+	{
+		"name"		"[CSserv.ru] Новый сервер"
+		"date"		"1694464635"
+		"addr"		"152.89.199.84:27056"
+	}
+	"server"
+	{
+		"name"		"Servidores Cs:Source [wsp +5491133440561]  | ProGamers"
+		"date"		"1694464636"
+		"addr"		"45.235.98.51:27020"
+	}
+	"server"
+	{
+		"name"		"█ GHOSTCAP █ ☣Zombie Escape"
+		"date"		"1694464637"
+		"addr"		"15.235.181.104:27016"
+	}
+	"server"
+	{
+		"name"		"*MIX* L.E.N.D.A.S.C.S.S - (GANGSTERS) / - BR DAS ANTIGAS! @CLAN"
+		"date"		"1694464638"
+		"addr"		"131.196.198.206:27450"
+	}
+	"server"
+	{
+		"name"		"[BR] -=[ REGGAE POWER ]=- #03 ALLMAPS DM OBJETIVO - !cw"
+		"date"		"1694464639"
+		"addr"		"131.196.198.206:27650"
+	}
+	"server"
+	{
+		"name"		"Game Host Bros Server"
+		"date"		"1694464640"
+		"addr"		"15.235.181.104:27025"
+	}
+	"server"
+	{
+		"name"		"WCS|HOLLIDAY|OLDSCHOOL WCS|FASTDL|CUSTOME RACES|NOSTALGIA"
+		"date"		"1694464642"
+		"addr"		"173.199.86.79:27015"
+	}
+	"server"
+	{
+		"name"		"LACTOBACLOS  -= AWP =-"
+		"date"		"1694464643"
+		"addr"		"104.234.224.127:27017"
+	}
+	"server"
+	{
+		"name"		"LACTOBACLOS  -= AIM / AK / COLT =-"
+		"date"		"1694464644"
+		"addr"		"104.234.224.127:27016"
+	}
+	"server"
+	{
+		"name"		"MiddleAgedGamers [MAG] GunGame "
+		"date"		"1694464645"
+		"addr"		"51.195.89.112:27035"
+	}
+	"server"
+	{
+		"name"		"æ Surf Leet Reborn"
+		"date"		"1694464646"
+		"addr"		"107.191.50.234:27015"
+	}
+	"server"
+	{
+		"name"		"* * * OYKC AWP! * * * MOCKBA! * * *"
+		"date"		"1694464655"
+		"addr"		"79.137.225.119:27016"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # AIM DEAGLE # Ranking, LowPing"
+		"date"		"1694465002"
+		"addr"		"89.163.148.193:27031"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # ASSAULT ONLY # Ranking, LowPing"
+		"date"		"1694465003"
+		"addr"		"89.163.148.193:27015"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # AZTEC ONLY # Ranking, LowPing"
+		"date"		"1694465004"
+		"addr"		"89.163.148.193:27017"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # CBBLE ONLY # Ranking, LowPing"
+		"date"		"1694465005"
+		"addr"		"89.163.148.193:27018"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # CHATEAU ONLY # Ranking, LowPing"
+		"date"		"1694465006"
+		"addr"		"89.163.148.193:27029"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # COMPOUND ONLY # Ranking, LowPing"
+		"date"		"1694465007"
+		"addr"		"89.163.148.193:27023"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DEATHMATCH # Random Spawn, Ranking"
+		"date"		"1694465009"
+		"addr"		"89.163.148.193:27027"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DEATHMATCH # Ranking, LowPing"
+		"date"		"1694465010"
+		"addr"		"89.163.148.193:27026"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DEATHMATCH DUST 2"
+		"date"		"1694465011"
+		"addr"		"89.163.148.193:27024"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DEATHMATCH OFFICE UNLIMITED"
+		"date"		"1694465012"
+		"addr"		"89.163.148.193:27025"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DUST ONLY # Ranking, LowPing"
+		"date"		"1694465013"
+		"addr"		"89.163.148.193:27019"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DUST2 ONLY # Ranking, LowPing"
+		"date"		"1694465014"
+		"addr"		"89.163.148.193:27020"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # DUST2U ONLY # Ranking, LowPing"
+		"date"		"1694465015"
+		"addr"		"89.163.148.193:27028"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # INFERNO ONLY # Ranking, LowPing"
+		"date"		"1694465016"
+		"addr"		"89.163.148.193:27034"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # ITALY ONLY # Ranking, LowPing"
+		"date"		"1694465018"
+		"addr"		"89.163.148.193:27021"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # MILITIA ONLY # Ranking, LowPing"
+		"date"		"1694465019"
+		"addr"		"89.163.148.193:27035"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # NUKE ONLY # Ranking, LowPing"
+		"date"		"1694465020"
+		"addr"		"89.163.148.193:27030"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # OFFICE ONLY # Ranking, LowPing"
+		"date"		"1694465021"
+		"addr"		"89.163.148.193:27022"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # PIRANESI ONLY # Ranking, LowPing"
+		"date"		"1694465022"
+		"addr"		"89.163.148.193:27036"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # PRODIGY ONLY # Ranking, LowPing"
+		"date"		"1694465023"
+		"addr"		"89.163.148.193:27033"
+	}
+	"server"
+	{
+		"name"		"www.Saigns.de # TRAIN ONLY # Ranking, LowPing"
+		"date"		"1694465024"
+		"addr"		"89.163.148.193:27037"
+	}
+	"server"
+	{
+		"name"		"*[N1K]* 24/7 CSS Deathmatch Server"
+		"date"		"1694570748"
+		"addr"		"24.152.199.13:27013"
+	}
+	"server"
+	{
+		"name"		"IRK DM FFA by ZUBAT"
+		"date"		"1694570750"
+		"addr"		"80.92.207.4:27057"
+	}
+	"server"
+	{
+		"name"		"Минский Паблик 21+ vk.com/cs.public_mimsk"
+		"date"		"1694570751"
+		"addr"		"185.9.145.160:29616"
+	}
+	"server"
+	{
+		"name"		"Урал ЕКБ"
+		"date"		"1694570752"
+		"addr"		"46.174.52.25:27215"
+	}
+	"server"
+	{
+		"name"		".::PUBLIC::.​​ [MarcoPlay.com] [ВОЗРОЖДЕНИЕ]"
+		"date"		"1694570753"
+		"addr"		"5.252.193.229:40000"
+	}
+	"server"
+	{
+		"name"		"БОЙЦОВСКИЙ КЛУБ 18+ | D2 | bc18go.ru"
+		"date"		"1694570754"
+		"addr"		"46.174.53.132:11111"
+	}
+	"server"
+	{
+		"name"		"Automix cs_office [Ожидание: +10]"
+		"date"		"1694570755"
+		"addr"		"46.174.55.215:27018"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source ClanWar Server"
+		"date"		"1694570756"
+		"addr"		"79.164.142.69:27022"
+	}
+	"server"
+	{
+		"name"		"{van} host server 14 of 18: deathmatch with easy bots!"
+		"date"		"1694570757"
+		"addr"		"77.37.141.72:27028"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [de_nuke only]"
+		"date"		"1694570758"
+		"addr"		"89.179.240.119:27071"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [ex Dust2 only] v6630498 [HLstatsX]"
+		"date"		"1694570759"
+		"addr"		"46.174.54.22:27015"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source Server #4"
+		"date"		"1694570761"
+		"addr"		"79.164.142.69:27018"
+	}
+	"server"
+	{
+		"name"		"-= CSDM.PRO =-"
+		"date"		"1694570762"
+		"addr"		"194.147.90.210:27015"
+	}
+	"server"
+	{
+		"name"		"*ПОД ВЛИЯНИЕМ* Game Public +FREE V.I.P"
+		"date"		"1694570763"
+		"addr"		"37.230.162.13:27015"
+	}
+	"server"
+	{
+		"name"		".::ZOMBIE REVIVAL::. [MarcoPlay.com] [ВОЗРОЖДЕНИЕ]"
+		"date"		"1694570764"
+		"addr"		"5.252.193.229:51050"
+	}
+	"server"
+	{
+		"name"		"Zombie::[Net4ALL.RU]::FastDL|SSD|NoSteam"
+		"date"		"1694570765"
+		"addr"		"46.174.53.69:27015"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1694570766"
+		"addr"		"46.174.52.17:27314"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1694570767"
+		"addr"		"185.31.160.187:35002"
+	}
+	"server"
+	{
+		"name"		"[CS] #Ахуенный сервачек# [CSGOMAPS]"
+		"date"		"1694570768"
+		"addr"		"46.174.51.206:27015"
+	}
+	"server"
+	{
+		"name"		"[-GAME4EX.RU-]|ШИЗОФРЕНИЯ +18|PUBLIC|CS:GO|"
+		"date"		"1694570769"
+		"addr"		"46.174.50.141:27015"
+	}
+	"server"
+	{
+		"name"		"Testing swq"
+		"date"		"1694570770"
+		"addr"		"46.174.52.14:27210"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source FUN Server"
+		"date"		"1694570771"
+		"addr"		"79.164.142.69:27021"
+	}
+	"server"
+	{
+		"name"		"[WAFG] DEATHMATCH#1 de_dust2 :: WAFGAMERS.COM ::"
+		"date"		"1694570773"
+		"addr"		"62.122.215.76:27015"
+	}
+	"server"
+	{
+		"name"		"ВОЗРОЖДЕНИЕ | Public | 21+ | VIP "
+		"date"		"1694570774"
+		"addr"		"46.174.52.25:27217"
+	}
+	"server"
+	{
+		"name"		"{van} host server 8 of 18: deathmatch with easy bots!"
+		"date"		"1694570775"
+		"addr"		"77.37.141.72:27022"
+	}
+	"server"
+	{
+		"name"		".::|ZM| Апокалипсис 16+:: [MarcoPlay.com] (27/32)"
+		"date"		"1694570776"
+		"addr"		"5.252.193.229:51300"
+	}
+	"server"
+	{
+		"name"		"Скины CS:GO :: v"
+		"date"		"1694570777"
+		"addr"		"46.174.52.25:27214"
+	}
+	"server"
+	{
+		"name"		"[Only $2000$] Место встречи [public]"
+		"date"		"1694570778"
+		"addr"		"46.174.49.50:27234"
+	}
+	"server"
+	{
+		"name"		".::GunГОЙДА!!!:: [MarcoPlay.com] (14/32)"
+		"date"		"1694570779"
+		"addr"		"5.252.193.229:41000"
+	}
+	"server"
+	{
+		"name"		".::DeathRun::. [MarcoPlay.com] [ВОЗРОЖДЕНИЕ]"
+		"date"		"1694570780"
+		"addr"		"5.252.193.229:51200"
+	}
+	"server"
+	{
+		"name"		"StrikeArena.RU @ GunGame | VIP | КОЛИЗЕЙ"
+		"date"		"1694570781"
+		"addr"		"85.236.0.85:28015"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1694570782"
+		"addr"		"185.221.196.57:27016"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1694570783"
+		"addr"		"37.230.162.183:27015"
+	}
+	"server"
+	{
+		"name"		"EXPLOSIVE PUBLIC [VIP_Weapons FREE]"
+		"date"		"1694570785"
+		"addr"		"62.122.215.216:27016"
+	}
+	"server"
+	{
+		"name"		"« НИКОГДА НЕ СДАВАЙСЯ © » [21+]"
+		"date"		"1694570786"
+		"addr"		"46.174.49.112:27012"
+	}
+	"server"
+	{
+		"name"		"[g2w.fun] ★MiniGame★ | !shop | !style | 1-3 JUMP |"
+		"date"		"1694570787"
+		"addr"		"146.19.87.112:11111"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1694570788"
+		"addr"		"46.174.52.26:27250"
+	}
+	"server"
+	{
+		"name"		"Novotroitsky_Public"
+		"date"		"1694570789"
+		"addr"		"46.174.48.49:27202"
+	}
+	"server"
+	{
+		"name"		"{van} host server 17 of 18: deathmatch with easy bots!"
+		"date"		"1694570790"
+		"addr"		"77.37.141.72:27031"
+	}
+	"server"
+	{
+		"name"		"ZOMBIE CITY | Hide and seek"
+		"date"		"1694570791"
+		"addr"		"62.122.214.87:22222"
+	}
+	"server"
+	{
+		"name"		"Bruss's CS Source DM/GG Server #2"
+		"date"		"1694570792"
+		"addr"		"79.164.142.69:27020"
+	}
+	"server"
+	{
+		"name"		" ╰‿╯ .:[MINIGAME] SOOQA-PROJECT МИНИ-ИГРЫ:.."
+		"date"		"1694570812"
+		"addr"		"46.174.49.174:17449"
+	}
+	"server"
+	{
+		"name"		"Напольный-Страйк: Источник"
+		"date"		"1694570813"
+		"addr"		"185.112.83.189:27015"
+	}
+	"server"
+	{
+		"name"		"yefood"
+		"date"		"1694570814"
+		"addr"		"178.154.214.253:27015"
+	}
+	"server"
+	{
+		"name"		"[AWP] umbRella Corporation 18+ [FREE SKINS CS:GO]"
+		"date"		"1694570816"
+		"addr"		"46.174.48.48:27225"
+	}
+	"server"
+	{
+		"name"		"__| НАШЕ ДЕЛО 18+ |__ for Ganesh | exclusive office/DD1"
+		"date"		"1694570817"
+		"addr"		"62.122.214.249:22222"
+	}
+	"server"
+	{
+		"name"		"۞► Пилoтка Юлечки ¤ DeathMatch ¤ 18+ ◄۞"
+		"date"		"1694570818"
+		"addr"		"62.122.215.143:27015"
+	}
+	"server"
+	{
+		"name"		"|>--RASSLABYXA.ru--<|_5_WarCraft_DOTA_Fast_XP [<10ping]"
+		"date"		"1694570819"
+		"addr"		"80.92.100.156:27040"
+	}
+	"server"
+	{
+		"name"		"ΞŦęřᶉîťỞŕẏ Όḟ ŴãřΞ SURF+RPG"
+		"date"		"1694570820"
+		"addr"		"185.158.114.50:27104"
+	}
+	"server"
+	{
+		"name"		"css.shot.su DeathMatch БИТВА. No Snipers"
+		"date"		"1694570851"
+		"addr"		"82.146.35.248:27015"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [de_cbble only]"
+		"date"		"1694570852"
+		"addr"		"89.179.240.119:27068"
+	}
+	"server"
+	{
+		"name"		"|>--RASSLABYXA.ru--<|_3_miniDM->DamageMod_fps500 [<10ping]"
+		"date"		"1694570866"
+		"addr"		"79.120.114.212:27052"
+	}
+	"server"
+	{
+		"name"		"CYBER ARENA DeathMatch"
+		"date"		"1694570872"
+		"addr"		"46.174.50.181:27015"
+	}
+	"server"
+	{
+		"name"		"Я КРУТ! 18+"
+		"date"		"1694570895"
+		"addr"		"46.174.52.5:27232"
+	}
+	"server"
+	{
+		"name"		"АТМОСФЕРА 18+ | FREE VIP NIGHT | bc18go.ru"
+		"date"		"1694570896"
+		"addr"		"46.174.52.247:33333"
+	}
+	"server"
+	{
+		"name"		"[ OCTAGON ] 8Arena.ru [VIP FREE]"
+		"date"		"1694570897"
+		"addr"		"46.174.53.6:27015"
+	}
+	"server"
+	{
+		"name"		"экстрим паблик сервер"
+		"date"		"1694570898"
+		"addr"		"46.174.52.20:27211"
+	}
+	"server"
+	{
+		"name"		"[GameArmy.ru] Мини GunGame! +FREE VIP"
+		"date"		"1694570899"
+		"addr"		"79.137.225.121:27015"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] AWP ONLY |[MSK][BHOP][WEAPON]"
+		"date"		"1694570900"
+		"addr"		"185.105.91.52:27015"
+	}
+	"server"
+	{
+		"name"		"В гостях у Льва Public"
+		"date"		"1694570901"
+		"addr"		"46.174.55.215:27016"
+	}
+	"server"
+	{
+		"name"		"GunGame -=В ZюZю™=-"
+		"date"		"1694570902"
+		"addr"		"46.174.48.49:27264"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Public Server v6630498"
+		"date"		"1694570904"
+		"addr"		"89.179.240.119:27020"
+	}
+	"server"
+	{
+		"name"		"~Classic_Server-CSS 18+"
+		"date"		"1694570905"
+		"addr"		"46.174.48.29:27212"
+	}
+	"server"
+	{
+		"name"		"ATMSIBIR MIX #1 [+10]"
+		"date"		"1694570906"
+		"addr"		"46.174.52.7:27215"
+	}
+	"server"
+	{
+		"name"		"Уникальный сервер! "
+		"date"		"1694570907"
+		"addr"		"46.174.48.126:27015"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] Ночное движение [ ONLY AWP ]"
+		"date"		"1694570908"
+		"addr"		"46.174.48.15:27252"
+	}
+	"server"
+	{
+		"name"		"•ОПАСНЫЙ КВАРТАЛ• [PUBLIC : 18+]"
+		"date"		"1694570972"
+		"addr"		"46.174.54.27:4549"
+	}
+	"server"
+	{
+		"name"		"|>--RASSLABYXA.ru--<|_12_MineCraft PROPS Строители+Bon"
+		"date"		"1694570973"
+		"addr"		"80.92.100.156:27022"
+	}
+	"server"
+	{
+		"name"		"***(Public 18+)***(The Big Bang Theory)***[TBBT]***"
+		"date"		"1694570974"
+		"addr"		"46.174.50.10:27228"
+	}
+	"server"
+	{
+		"name"		"Alpha Division [FREE VIP]"
+		"date"		"1694570975"
+		"addr"		"46.174.49.177:27015"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] TRUE SERV [AWP ONLY]"
+		"date"		"1694570976"
+		"addr"		"46.174.48.49:27219"
+	}
+	"server"
+	{
+		"name"		"¦SoCLan¦ - Conquest “Захват Флагов” [66Tick]"
+		"date"		"1694570977"
+		"addr"		"37.230.210.87:27004"
+	}
+	"server"
+	{
+		"name"		"-=Blood Rivers=-"
+		"date"		"1694570979"
+		"addr"		"46.174.52.7:27201"
+	}
+	"server"
+	{
+		"name"		"ЖЕНСКАЯ ВЛАСТЬ 18+ [d90x.ru]"
+		"date"		"1694570980"
+		"addr"		"46.174.50.171:27015"
+	}
+	"server"
+	{
+		"name"		"MIX#1 | -Дерзкие СуЧкИ- [В ожидании: 10]"
+		"date"		"1694570981"
+		"addr"		"46.174.52.17:27274"
+	}
+	"server"
+	{
+		"name"		"МИЛЛИОНЕРЫ$20000$"
+		"date"		"1694570982"
+		"addr"		"62.122.213.113:27015"
+	}
+	"server"
+	{
+		"name"		"В гостях у Льва AWP Lego 2 Only"
+		"date"		"1694570983"
+		"addr"		"46.174.55.215:27017"
+	}
+	"server"
+	{
+		"name"		"░ЛИХИЕ - ОРЕХОВСКИЕ░  [2000 only 18+]"
+		"date"		"1694570984"
+		"addr"		"46.174.49.134:1111"
+	}
+	"server"
+	{
+		"name"		"╰‿╯ AWP + LEGO 2 | Moralka.project [15+]"
+		"date"		"1694570985"
+		"addr"		"46.174.52.30:27201"
+	}
+	"server"
+	{
+		"name"		"[BATTLE PASS]★ Атмосфера богов ★[ATMOSFERA BO"
+		"date"		"1694570986"
+		"addr"		"37.230.162.138:63333"
+	}
+	"server"
+	{
+		"name"		"Classictu=CSS=[NoSteam] MSK"
+		"date"		"1694570987"
+		"addr"		"46.174.50.10:27227"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [de_inferno only]"
+		"date"		"1694570989"
+		"addr"		"89.179.240.119:27074"
+	}
+	"server"
+	{
+		"name"		"Адекватный_паблик|AWP_Lego_2|vk.com/aim_awp"
+		"date"		"1694570990"
+		"addr"		"62.122.213.247:27015"
+	}
+	"server"
+	{
+		"name"		"❤‿❤ ИГРАЙ✘КРАСИВО ❤‿❤ [AWP/AIM]"
+		"date"		"1694570991"
+		"addr"		"146.19.87.40:27015"
+	}
+	"server"
+	{
+		"name"		"Zombie Hunting |All Weapons|Rank|Respawn|"
+		"date"		"1694570992"
+		"addr"		"37.230.210.106:27015"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1694570993"
+		"addr"		"46.174.50.32:27216"
+	}
+	"server"
+	{
+		"name"		"•ОПАСНЫЙ КВАРТАЛ• [WEAPONS CS:GO : 18+]"
+		"date"		"1694570994"
+		"addr"		"194.93.2.218:27015"
+	}
+	"server"
+	{
+		"name"		"[WAFG] ZOMBIE RIOT MIX :: Unlimited Ammo :: WAFGAMERS.COM :: Sh"
+		"date"		"1694570995"
+		"addr"		"46.174.53.129:27015"
+	}
+	"server"
+	{
+		"name"		"|ДЕТИ 90-X| [PUBLIC] 18+"
+		"date"		"1694570996"
+		"addr"		"46.174.48.72:27777"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1694570998"
+		"addr"		"194.67.196.144:27301"
+	}
+	"server"
+	{
+		"name"		"|>--RASSLABYXA.ru--<|_6_MiniGame SEX-> BEST [<10ping]"
+		"date"		"1694571033"
+		"addr"		"80.92.100.156:27031"
+	}
+	"server"
+	{
+		"name"		"MyArena.ru тестовый сервер [66tick]"
+		"date"		"1694571034"
+		"addr"		"46.174.48.44:27221"
+	}
+	"server"
+	{
+		"name"		"CS:S STEAM | NullAntiCheat | Тестовый Сервер"
+		"date"		"1694571035"
+		"addr"		"95.163.234.239:27001"
+	}
+	"server"
+	{
+		"name"		"MisoTrubka"
+		"date"		"1694571036"
+		"addr"		"79.175.51.102:27015"
+	}
+	"server"
+	{
+		"name"		"((((( TAGANSKY PRO 18+ )))))"
+		"date"		"1694571037"
+		"addr"		"46.188.98.11:27016"
+	}
+	"server"
+	{
+		"name"		"СУРОВЫЙ ХАРАКТЕР 18+ [Public] 24/7"
+		"date"		"1694571038"
+		"addr"		"62.122.213.176:7777"
+	}
+	"server"
+	{
+		"name"		"В гостях у Льва Office Only"
+		"date"		"1694571040"
+		"addr"		"46.174.55.215:27015"
+	}
+	"server"
+	{
+		"name"		"БИТВА ИЗБРАННЫХ netmens.ru"
+		"date"		"1694571041"
+		"addr"		"46.174.53.165:27015"
+	}
+	"server"
+	{
+		"name"		"ZLO-CSS.RU | Русские МиниИгры | NO-STEAM"
+		"date"		"1694571133"
+		"addr"		"46.174.52.14:27278"
+	}
+	"server"
+	{
+		"name"		"[V92] ИНДУСТРИЯ. [CS:GO PUBLIC]"
+		"date"		"1694571134"
+		"addr"		"46.174.53.188:8888"
+	}
+	"server"
+	{
+		"name"		"+18 Moscow Public Server"
+		"date"		"1694571136"
+		"addr"		"46.174.50.226:27015"
+	}
+	"server"
+	{
+		"name"		"Адекватный_паблик|deDust2|vk.com/aim_awp"
+		"date"		"1694571137"
+		"addr"		"46.174.55.147:27015"
+	}
+	"server"
+	{
+		"name"		"Дальнее-Константиново [ non-steam ]"
+		"date"		"1694571138"
+		"addr"		"46.174.48.48:27271"
+	}
+	"server"
+	{
+		"name"		"[СЕРВАЧОК ДЛЯ РАССЛАБОНА][16+]"
+		"date"		"1694571139"
+		"addr"		"46.174.48.48:27209"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [cs_italy only]"
+		"date"		"1694571202"
+		"addr"		"89.179.240.119:27075"
+	}
+	"server"
+	{
+		"name"		"***Bhop Pro|new_timer|styles|surf_maps|We Love Bhop***"
+		"date"		"1694571203"
+		"addr"		"45.89.67.214:27019"
+	}
+	"server"
+	{
+		"name"		"БРАТ 90-Х © DUST2 | 100TICK |"
+		"date"		"1694571204"
+		"addr"		"46.174.50.176:27102"
+	}
+	"server"
+	{
+		"name"		" ( ͡° ͜ʖ ͡°) .:SEX WITH FUN:. DeathRun [deathrun_iceworld"
+		"date"		"1694571205"
+		"addr"		"185.158.112.131:27015"
+	}
+	"server"
+	{
+		"name"		"___,l.lL.__|ELEMENT|__.lL.___"
+		"date"		"1694571206"
+		"addr"		"46.174.50.10:27230"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] ИЗИ ДЛЯ ПАПИЗИ"
+		"date"		"1694571208"
+		"addr"		"176.126.103.67:27001"
+	}
+	"server"
+	{
+		"name"		"Воронеж-не догонишь!БЕЗ ЧИТОВ DUST2_LE"
+		"date"		"1694571946"
+		"addr"		"46.174.48.27:27300"
+	}
+	"server"
+	{
+		"name"		"TwuzzyStrike Gun"
+		"date"		"1694571947"
+		"addr"		"2.58.202.166:27019"
+	}
+	"server"
+	{
+		"name"		"TwuzzyStrike Source"
+		"date"		"1694571949"
+		"addr"		"2.58.202.36:27016"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1694571950"
+		"addr"		"162.222.196.155:26935"
+	}
+	"server"
+	{
+		"name"		"TwuzzyStrike Source"
+		"date"		"1694571951"
+		"addr"		"2.58.202.166:27017"
+	}
+	"server"
+	{
+		"name"		"BETA Test. DXPort"
+		"date"		"1694571952"
+		"addr"		"176.119.158.98:27015"
+	}
+	"server"
+	{
+		"name"		"Twuzzy Gaming Zombie Mod"
+		"date"		"1694571953"
+		"addr"		"2.58.202.166:27018"
+	}
+	"server"
+	{
+		"name"		"Для Души 18+"
+		"date"		"1694571975"
+		"addr"		"194.93.2.51:27207"
+	}
+	"server"
+	{
+		"name"		" *Drive* GunGame -=Solncevo=-"
+		"date"		"1694571976"
+		"addr"		"93.95.101.238:27016"
+	}
+	"server"
+	{
+		"name"		"LipServer | GunGame | DM:Turbo | 100 Tick | FREE VIP"
+		"date"		"1694572176"
+		"addr"		"46.174.49.228:55555"
+	}
+	"server"
+	{
+		"name"		"██ DEATH-ARENA ██ ★★★ PUBLIC ★★★"
+		"date"		"1694572177"
+		"addr"		"194.93.2.125:55555"
+	}
+	"server"
+	{
+		"name"		"Chillaxin RPG Server"
+		"date"		"1694572221"
+		"addr"		"209.50.50.26:27016"
+	}
+	"server"
+	{
+		"name"		"██ L E G E N D A ██ ★★★ DUST2 ★★★"
+		"date"		"1694572222"
+		"addr"		"46.174.55.182:55555"
+	}
+	"server"
+	{
+		"name"		"Новый сервер от CW-SERV.RU"
+		"date"		"1694572223"
+		"addr"		"146.19.87.52:27015"
+	}
+	"server"
+	{
+		"name"		" *Drive* & MFSPROJECT No AWP Здесь банят за мат!"
+		"date"		"1694572224"
+		"addr"		"93.95.101.238:27015"
+	}
+	"server"
+	{
+		"name"		"<<JLpEo6PA}|{eHcKuЙ>>[CSGo weapon]"
+		"date"		"1694572225"
+		"addr"		"62.122.215.208:27015"
+	}
+	"server"
+	{
+		"name"		"***SN~Дикий~DeathMatch(RUS)~NS***"
+		"date"		"1694572226"
+		"addr"		"185.231.245.242:27015"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1694572227"
+		"addr"		"46.174.52.25:27238"
+	}
+	"server"
+	{
+		"name"		"MyArena.ru тестовый сервер [100tick]"
+		"date"		"1694573243"
+		"addr"		"46.174.52.2:27335"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] TRUE SERV [PUBLIC]"
+		"date"		"1694573272"
+		"addr"		"62.122.214.254:27015"
+	}
+	"server"
+	{
+		"name"		"[FaceWAN] CS:S Minigames [US East]"
+		"date"		"1694580013"
+		"addr"		"157.254.169.173:27020"
+	}
+	"server"
+	{
+		"name"		"tommyhops wl"
+		"date"		"1694580014"
+		"addr"		"150.136.82.21:27015"
+	}
+	"server"
+	{
+		"name"		"TimetoKill.net - CS:S Minigames and more"
+		"date"		"1694580016"
+		"addr"		"209.222.101.155:27016"
+	}
+	"server"
+	{
+		"name"		"[FaceWAN] CS:S Gungame [US East]"
+		"date"		"1694580017"
+		"addr"		"157.254.169.173:27021"
+	}
+	"server"
+	{
+		"name"		"Chicago Trikzbb"
+		"date"		"1694580018"
+		"addr"		"104.153.105.67:27015"
+	}
+	"server"
+	{
+		"name"		"[US][LBG] Bunny Hop ▍Custom ▍Laid Back"
+		"date"		"1694580019"
+		"addr"		"23.247.169.10:27015"
+	}
+	"server"
+	{
+		"name"		"[Bits][Chicago] jvmo privy"
+		"date"		"1694580020"
+		"addr"		"107.152.42.155:27015"
+	}
+	"server"
+	{
+		"name"		"you can NOT join this server"
+		"date"		"1694580021"
+		"addr"		"74.91.112.103:27015"
+	}
+	"server"
+	{
+		"name"		"[FaceWAN] CS:S Surf Deathmatch [US East]"
+		"date"		"1694580022"
+		"addr"		"157.254.169.173:27018"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] Bunnyhop"
+		"date"		"1694580023"
+		"addr"		"72.5.195.96:27015"
+	}
+	"server"
+	{
+		"name"		"JessicaHops NA Whitelist"
+		"date"		"1694580024"
+		"addr"		"74.91.113.46:27015"
+	}
+	"server"
+	{
+		"name"		"[FaceWAN] CS:S Bhop [US East]"
+		"date"		"1694580026"
+		"addr"		"157.254.169.173:27019"
+	}
+	"server"
+	{
+		"name"		"[FaceWAN] CS:S Surf [US East]"
+		"date"		"1694580027"
+		"addr"		"157.254.169.173:27017"
+	}
+	"server"
+	{
+		"name"		"｢CuteHops｣ | BunnyHop | anime waifus | NA | 100-tick"
+		"date"		"1694580028"
+		"addr"		"5.161.98.191:27015"
+	}
+	"server"
+	{
+		"name"		"A New GameServers.com Server is Born"
+		"date"		"1694580029"
+		"addr"		"108.61.238.123:27055"
+	}
+	"server"
+	{
+		"name"		"[Wallah-Hops] Bhop Whitelist #2"
+		"date"		"1694580030"
+		"addr"		"51.79.77.208:27015"
+	}
+	"server"
+	{
+		"name"		">w<"
+		"date"		"1694580031"
+		"addr"		"5.161.98.191:27016"
+	}
+	"server"
+	{
+		"name"		"VERGE | BHOP | TIMER | STORE | SSJ | MEME BONUSES"
+		"date"		"1694580032"
+		"addr"		"74.91.125.73:27015"
+	}
+	"server"
+	{
+		"name"		"[Bits][Chicago] Beautifully intricate trikz server"
+		"date"		"1694580034"
+		"addr"		"74.91.125.78:27015"
+	}
+	"server"
+	{
+		"name"		"[Wallah-Hops] Bhop Whitelist"
+		"date"		"1694580035"
+		"addr"		"74.91.122.174:27015"
+	}
+	"server"
+	{
+		"name"		"[ZRiot Day: 3/8] A Shockbyte CSS Server"
+		"date"		"1694580036"
+		"addr"		"66.70.238.187:25566"
+	}
+	"server"
+	{
+		"name"		"KwikHops NA Bhop | Public | Chicago | 2000+ Maps"
+		"date"		"1694580037"
+		"addr"		"74.91.119.208:27015"
+	}
+	"server"
+	{
+		"name"		"BoomShot's Bhop Brethren | 100-tick | discord.gg/BfmpEEfAbS"
+		"date"		"1694580038"
+		"addr"		"161.129.154.242:27015"
+	}
+	"server"
+	{
+		"name"		"XC makes me XD"
+		"date"		"1694580039"
+		"addr"		"24.128.21.126:27015"
+	}
+	"server"
+	{
+		"name"		"B4M|^:RPG:DM:GG:ZM:BHOP:HIV:AIDS:FASTDL:^|Fun Server|B4M"
+		"date"		"1694580040"
+		"addr"		"162.248.93.21:27015"
+	}
+	"server"
+	{
+		"name"		"Wigglebone | Bay Area | Whitelist Server"
+		"date"		"1694580041"
+		"addr"		"74.91.118.8:27015"
+	}
+	"server"
+	{
+		"name"		"[Bits][Los Angeles] Beautifully intricate trikz server"
+		"date"		"1694580043"
+		"addr"		"149.248.9.234:27015"
+	}
+	"server"
+	{
+		"name"		"WEED.VG RYANSROOM ::DEATHMATCH|SMAC|BHOP|SURF::  (6/64)"
+		"date"		"1694580044"
+		"addr"		"103.72.79.170:27015"
+	}
+	"server"
+	{
+		"name"		"dodgeball nostalgia"
+		"date"		"1694580045"
+		"addr"		"173.240.150.75:26945"
+	}
+	"server"
+	{
+		"name"		"kotyata"
+		"date"		"1694580046"
+		"addr"		"46.174.50.149:27016"
+	}
+	"server"
+	{
+		"name"		"[ Expert Zone ] -=Trikz=- [ GameModes | Tick 100 ]"
+		"date"		"1694580047"
+		"addr"		"46.174.48.48:27290"
+	}
+	"server"
+	{
+		"name"		"BLACK DRAGON | PUBLIC |18+"
+		"date"		"1694580048"
+		"addr"		"46.174.54.142:27015"
+	}
+	"server"
+	{
+		"name"		"Обстановка по кайфу 18+"
+		"date"		"1694580049"
+		"addr"		"185.9.145.160:27520"
+	}
+	"server"
+	{
+		"name"		"[Bits][Moscow] Beautifully intricate trikz server"
+		"date"		"1694580079"
+		"addr"		"46.174.54.76:27015"
+	}
+	"server"
+	{
+		"name"		"[CYBER PROJECT] [ZOMBIE MOD]"
+		"date"		"1694580295"
+		"addr"		"46.174.55.150:27015"
+	}
+	"server"
+	{
+		"name"		"ANIME LUCHSHE VETERANOV"
+		"date"		"1694580296"
+		"addr"		"46.174.52.164:27015"
+	}
+	"server"
+	{
+		"name"		"DS-HOST.RU"
+		"date"		"1694580297"
+		"addr"		"185.9.145.160:28588"
+	}
+	"server"
+	{
+		"name"		"kotyata (whitelist)"
+		"date"		"1694580299"
+		"addr"		"46.174.50.149:27017"
+	}
+	"server"
+	{
+		"name"		"Surf+RPG+DM|.:Cool boys and girls:.|Сгнил сервачок"
+		"date"		"1694580300"
+		"addr"		"46.174.50.199:27015"
+	}
+	"server"
+	{
+		"name"		"Наша Сибирь[МСК] █Public█ ✔CSGO Оружия"
+		"date"		"1694580301"
+		"addr"		"46.174.49.244:27723"
+	}
+	"server"
+	{
+		"name"		"FATALITY HOT 亗 | STARTED"
+		"date"		"1694611482"
+		"addr"		"81.88.215.237:27015"
+	}
+	"server"
+	{
+		"name"		"Freeman and Co Russian server (без AWP, без Мата)"
+		"date"		"1694611483"
+		"addr"		"194.190.25.183:27015"
+	}
+	"server"
+	{
+		"name"		"|>--RASSLABYXA.ru--<|_11_SURF [<10ping]"
+		"date"		"1694611484"
+		"addr"		"79.120.114.212:27017"
+	}
+	"server"
+	{
+		"name"		"{van} host server 18 of 18: deathmatch with easy bots!"
+		"date"		"1694611485"
+		"addr"		"77.37.141.72:27032"
+	}
+	"server"
+	{
+		"name"		"|ПОКОЛЕНИЕ 90-Х|_[PUBLIC] 18+"
+		"date"		"1694611486"
+		"addr"		"46.174.54.139:55555"
+	}
+	"server"
+	{
+		"name"		"FATALITY HOT 亗 | MIX [В ожидании: 10]"
+		"date"		"1694611488"
+		"addr"		"81.88.215.237:27016"
+	}
+	"server"
+	{
+		"name"		"{van} host server 3 of 18: deathmatch with easy bots!"
+		"date"		"1694611489"
+		"addr"		"77.37.141.72:27017"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1694611490"
+		"addr"		"46.174.50.10:27236"
+	}
+	"server"
+	{
+		"name"		"{van} host server 10 of 18: deathmatch with easy bots!"
+		"date"		"1694611491"
+		"addr"		"77.37.141.72:27024"
+	}
+	"server"
+	{
+		"name"		"[GameArmy.ru] NO AWP! МОСКВА! #1"
+		"date"		"1694611492"
+		"addr"		"79.137.225.119:27015"
+	}
+	"server"
+	{
+		"name"		"StrikeArena.ru @ Still Free Crew (SFC) headshot server"
+		"date"		"1694611493"
+		"addr"		"85.236.0.85:28016"
+	}
+	"server"
+	{
+		"name"		"Cunter-Strikes: Sauce"
+		"date"		"1694637092"
+		"addr"		"74.70.188.69:27016"
+	}
+	"server"
+	{
+		"name"		"D_DM_2023"
+		"date"		"1694637093"
+		"addr"		"46.174.52.18:27315"
+	}
+	"server"
+	{
+		"name"		"{van} host server 13 of 18: deathmatch with easy bots!"
+		"date"		"1694637094"
+		"addr"		"77.37.141.72:27027"
+	}
+	"server"
+	{
+		"name"		"КОЛИЗЕЙ | Dust II | Free VIP | tickrate 100"
+		"date"		"1694637095"
+		"addr"		"37.230.210.226:27015"
+	}
+	"server"
+	{
+		"name"		"❤‿❤ ИГРАЙ✘КРАСИВО ❤‿❤ [PUBLIC]"
+		"date"		"1694637096"
+		"addr"		"185.158.114.205:27114"
+	}
+	"server"
+	{
+		"name"		"► PERFECT FOX ► de_dust1 ► 6/64"
+		"date"		"1694637097"
+		"addr"		"46.174.55.141:58888"
+	}
+	"server"
+	{
+		"name"		"{van} host server 6 of 18: deathmatch with easy bots!"
+		"date"		"1694637099"
+		"addr"		"77.37.141.72:27020"
+	}
+	"server"
+	{
+		"name"		"{van} host server 5 of 18: deathmatch with easy bots!"
+		"date"		"1694637100"
+		"addr"		"77.37.141.72:27019"
+	}
+	"server"
+	{
+		"name"		"{van} host server 2 of 18: deathmatch with easy bots!"
+		"date"		"1694637101"
+		"addr"		"77.37.141.72:27016"
+	}
+	"server"
+	{
+		"name"		"█ MINI GAME █ [T.ME/ELITES_CSS]"
+		"date"		"1694637102"
+		"addr"		"37.230.210.151:27777"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Deathmatch Server v6630498"
+		"date"		"1694637103"
+		"addr"		"89.179.240.119:27017"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [de_train only]"
+		"date"		"1694637104"
+		"addr"		"89.179.240.119:27072"
+	}
+	"server"
+	{
+		"name"		"[*SN*] SNOWFLAKE NATION [*SN*] uberiBots/mods/skins/maps/chill"
+		"date"		"1694745113"
+		"addr"		"74.50.109.219:27020"
+	}
+	"server"
+	{
+		"name"		"PERFECT SHOT @CGBGames"
+		"date"		"1694745115"
+		"addr"		"177.54.157.34:27253"
+	}
+	"server"
+	{
+		"name"		"Familia @CGBGames"
+		"date"		"1694745116"
+		"addr"		"177.54.157.34:27254"
+	}
+	"server"
+	{
+		"name"		"MDK 24/7 CRACKHOUSE PUB NO AWP / NO AUTO"
+		"date"		"1694745117"
+		"addr"		"108.61.238.69:27035"
+	}
+	"server"
+	{
+		"name"		"MADRUGADÃO BR © Servidor Oficial ® Steam e NonSteam"
+		"date"		"1694745118"
+		"addr"		"131.196.198.205:27420"
+	}
+	"server"
+	{
+		"name"		"RPG для нубов"
+		"date"		"1694745120"
+		"addr"		"94.228.168.76:34895"
+	}
+	"server"
+	{
+		"name"		"MU-Server-ARG|!shop |!weapon |FastDL"
+		"date"		"1694745121"
+		"addr"		"186.57.121.208:27016"
+	}
+	"server"
+	{
+		"name"		"KuroNeko Team [5v5 > Mitad 1/2: Pap4s (5 - 2) el ] vybran"
+		"date"		"1694745122"
+		"addr"		"34.176.59.89:27037"
+	}
+	"server"
+	{
+		"name"		"Source"
+		"date"		"1694745123"
+		"addr"		"62.72.63.189:27015"
+	}
+	"server"
+	{
+		"name"		"💀MATADORES AGRESSIVOS BR 💀 SÓ TIRO NA CARA"
+		"date"		"1694745124"
+		"addr"		"132.255.152.132:27015"
+	}
+	"server"
+	{
+		"name"		"CSS Server By Garryshost"
+		"date"		"1694745126"
+		"addr"		"45.235.98.239:27075"
+	}
+	"server"
+	{
+		"name"		"[DE] Deathmatch | !Rank | Alltalk | PUBLIC | FASTDL [64Slots]"
+		"date"		"1694745127"
+		"addr"		"45.84.199.138:27025"
+	}
+	"server"
+	{
+		"name"		"*The.:.eSPORT.::Wu.:.Tang.:.Clan:|:Dust2 Only:|:noAWP:|:DUST2.O"
+		"date"		"1694745128"
+		"addr"		"45.84.199.11:27015"
+	}
+	"server"
+	{
+		"name"		"PlanetSky Public"
+		"date"		"1694745129"
+		"addr"		"95.84.164.120:27021"
+	}
+	"server"
+	{
+		"name"		"██► CSrating ◄██|AIM DEATHMATCH| #4 24/7"
+		"date"		"1694745130"
+		"addr"		"62.113.97.161:27018"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] Surf | 100-tick | DM | FastDL | [US]"
+		"date"		"1694745132"
+		"addr"		"92.119.148.205:27015"
+	}
+	"server"
+	{
+		"name"		".::COVID-19::. [MarcoPlay.com] [ВОЗРОЖДЕНИЕ]"
+		"date"		"1694745133"
+		"addr"		"5.252.193.229:35000"
+	}
+	"server"
+	{
+		"name"		"//SRV3-12 FYN.IO CS:S-RANKED//HOSTAGE MAPS 24/7"
+		"date"		"1694745134"
+		"addr"		"178.155.248.168:5233"
+	}
+	"server"
+	{
+		"name"		"██► CSrating ◄██|$2000$ Only| #1 24/7"
+		"date"		"1694745135"
+		"addr"		"62.113.97.161:27015"
+	}
+	"server"
+	{
+		"name"		"[CS:GO][✯MEDVEZHIY SERVER✯][NoSteam]"
+		"date"		"1694745142"
+		"addr"		"62.122.213.209:27072"
+	}
+	"server"
+	{
+		"name"		"╰‿╯ .:ДОБРОГО ВЕЧОРА МИ З УКРАЇНИ:"
+		"date"		"1694745185"
+		"addr"		"91.200.41.46:2006"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#1-BASIC-64*Slots-(18+)-[ZLOYGAMES.COM]=-"
+		"date"		"1695007282"
+		"addr"		"37.230.137.210:27015"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#2-BASIC-(de_dust2)-[ZLOYGAMES.COM]=-"
+		"date"		"1695007283"
+		"addr"		"37.230.137.210:27016"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#3-BASIC-(cs_office)-[ZLOYGAMES.COM]=-"
+		"date"		"1695007284"
+		"addr"		"37.230.137.210:27017"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#4-$2000$-[ZLOYGAMES.COM]=-"
+		"date"		"1695007285"
+		"addr"		"37.230.137.210:27018"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#5-Deathmatch-(de_dust2)-[ZLOYGAMES.COM]=-"
+		"date"		"1695007286"
+		"addr"		"37.230.137.210:27019"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#6-GunGame+DM-[ZLOYGAMES.COM]=-"
+		"date"		"1695007287"
+		"addr"		"37.230.137.210:27020"
+	}
+	"server"
+	{
+		"name"		"	Z -=ZLOY-#7-ZOMBIE-[ZLOYGAMES.COM]=-"
+		"date"		"1695007289"
+		"addr"		"37.230.137.210:27021"
+	}
+	"server"
+	{
+		"name"		"\"^^OFFICE ONLY^^\""
+		"date"		"1695007483"
+		"addr"		"45.136.205.95:27015"
+	}
+	"server"
+	{
+		"name"		" УБИЙСТВЕННЫЙ ® DUST2 [go-murderous.ru]"
+		"date"		"1695007489"
+		"addr"		"95.31.19.57:27015"
+	}
+	"server"
+	{
+		"name"		".::ZM::. ZOMBIE EVOLUTION"
+		"date"		"1695007539"
+		"addr"		"46.174.52.14:27211"
+	}
+	"server"
+	{
+		"name"		".::|ZE| ZOMBIE 16+::."
+		"date"		"1695007545"
+		"addr"		"45.136.205.186:27015"
+	}
+	"server"
+	{
+		"name"		"[RussianGang] $2000$ [100tick | 500fps | v92]"
+		"date"		"1695007557"
+		"addr"		"212.12.15.54:27019"
+	}
+	"server"
+	{
+		"name"		"__| НАШЕ ДЕЛО 18+ |__ for Ganesh |exclusive DD2 only| "
+		"date"		"1695007571"
+		"addr"		"37.230.228.120:11111"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:S новый IP 46.174.54.22:27015"
+		"date"		"1695007591"
+		"addr"		"89.179.240.119:27027"
+	}
+	"server"
+	{
+		"name"		"c400.ru CS:Source Server [cs_assault only]"
+		"date"		"1695007592"
+		"addr"		"89.179.240.119:27070"
+	}
+	"server"
+	{
+		"name"		"NPC TEST [ 5 5 5 5 5 ] [ F I V E - F I V E S ] [ 5 5 5 5 5 ]"
+		"date"		"1695007610"
+		"addr"		"45.136.205.142:55555"
+	}
+	"server"
+	{
+		"name"		"[ZM] COVID-19 MOD | FREE VIP | bc18go.ru"
+		"date"		"1695007618"
+		"addr"		"37.230.228.74:27015"
+	}
+	"server"
+	{
+		"name"		"SURF RPG №1"
+		"date"		"1695007624"
+		"addr"		"46.174.52.10:27222"
+	}
+	"server"
+	{
+		"name"		"|- PUBLIC -| ЗОНА ОРГАЗМА |- 18+ -|"
+		"date"		"1695007698"
+		"addr"		"45.136.205.96:27015"
+	}
+	"server"
+	{
+		"name"		"YARSERVER |MIX| |YARPRO76.RU| [В ожидании: 10]"
+		"date"		"1695007709"
+		"addr"		"46.174.48.38:27209"
+	}
+	"server"
+	{
+		"name"		"█ PUB █ СИБИРЬ АТАКУЕТ [18+]"
+		"date"		"1695007717"
+		"addr"		"37.230.137.205:3333"
+	}
+	"server"
+	{
+		"name"		"░▒▓█ ║OMEGA║TOP║PUBLIC║SKINS║18+ █▓▒░"
+		"date"		"1695007724"
+		"addr"		"37.230.137.80:27015"
+	}
+	"server"
+	{
+		"name"		"★ [ZOMBIE REVIVAL] [NIGHT ON MAPS] old [ZM] ★"
+		"date"		"1695007738"
+		"addr"		"80.82.46.163:27018"
+	}
+	"server"
+	{
+		"name"		"ВОЗРОЖДЕНИЕ | Public | 21+ | No-Steam"
+		"date"		"1695007748"
+		"addr"		"45.136.205.225:27016"
+	}
+	"server"
+	{
+		"name"		"МУЖСКОЙ ХАРАКТЕР ✔"
+		"date"		"1695007764"
+		"addr"		"46.174.52.202:22222"
+	}
+	"server"
+	{
+		"name"		"Ножевой Сервер ONLY ODLS # | Deathmatch | # 24/7"
+		"date"		"1695007812"
+		"addr"		"46.174.52.10:27219"
+	}
+	"server"
+	{
+		"name"		"СУРОВЫЙ ХАРАКТЕР 18+ [GunGame] 24/7"
+		"date"		"1695007813"
+		"addr"		"45.136.205.192:7777"
+	}
+	"server"
+	{
+		"name"		"Покажи на что способен 21+"
+		"date"		"1695007814"
+		"addr"		"37.230.137.215:37215"
+	}
+	"server"
+	{
+		"name"		"◕‿◕ Alpha.:DD2:.NEW WEAPON[VIP FREE]"
+		"date"		"1695090141"
+		"addr"		"46.174.55.121:55555"
+	}
+	"server"
+	{
+		"name"		"╰‿╯ .:ДОБРОГО ВЕЧОРА МИ З УКРАЇНИ:"
+		"date"		"1695090143"
+		"addr"		"91.200.41.38:27061"
+	}
+	"server"
+	{
+		"name"		"UA▐ PARADISE MIX ❤ UKRAINE ❤ [В очікуванні]"
+		"date"		"1695090147"
+		"addr"		"91.211.118.147:27052"
+	}
+	"server"
+	{
+		"name"		"	Clown Games | AWP | FastDL | *Funtastic*"
+		"date"		"1695090162"
+		"addr"		"74.91.113.47:27017"
+	}
+	"server"
+	{
+		"name"		"[CCM] CS Source by Crash Crew Minden"
+		"date"		"1695095403"
+		"addr"		"93.203.116.179:27035"
+	}
+	"server"
+	{
+		"name"		"MU-Server-ARG|!shop |!weapon |FastDL"
+		"date"		"1695095404"
+		"addr"		"181.24.158.55:27016"
+	}
+	"server"
+	{
+		"name"		"KuroNeko Team [5v5 > Mitad 2/2: dmitry (10 - 10) 'SunflowerT] v"
+		"date"		"1695095405"
+		"addr"		"34.176.213.47:27037"
+	}
+	"server"
+	{
+		"name"		"#2 Barra Libre - Argentina [PUB/MultiMod]"
+		"date"		"1695095407"
+		"addr"		"149.50.129.246:37016"
+	}
+	"server"
+	{
+		"name"		"Massive Team #1 [Publico]>[STEAM]>[ARG] By ExtremeHost"
+		"date"		"1695095408"
+		"addr"		"34.176.213.47:27018"
+	}
+	"server"
+	{
+		"name"		"[ALQUILA TU SERVIDOR] [extremehost.sytes.net] By ExtremeHost"
+		"date"		"1695095409"
+		"addr"		"34.176.213.47:27035"
+	}
+	"server"
+	{
+		"name"		"#1 [ MDZ Gaming ] AutoMix"
+		"date"		"1695095410"
+		"addr"		"45.235.98.68:27025"
+	}
+	"server"
+	{
+		"name"		"Massive Team #3 [MultiMod]>[BunnyHop]>[STEAM]>[ARG] By ExtremeH"
+		"date"		"1695095411"
+		"addr"		"34.176.213.47:27021"
+	}
+	"server"
+	{
+		"name"		"International [Public] [without mat]"
+		"date"		"1695095412"
+		"addr"		"46.174.55.253:55555"
+	}
+	"server"
+	{
+		"name"		"Massive Team #2 [MIX]>[DeathMatch]>[STEAM]>[ARG] By ExtremeHost"
+		"date"		"1695095413"
+		"addr"		"34.176.213.47:27019"
+	}
+	"server"
+	{
+		"name"		"hattrick.go.ro:27165 fy_snow 66_tick"
+		"date"		"1695095415"
+		"addr"		"86.124.108.7:27165"
+	}
+	"server"
+	{
+		"name"		"tw"
+		"date"		"1695095416"
+		"addr"		"94.241.140.187:27015"
+	}
+	"server"
+	{
+		"name"		"CSS Server By Garryshost"
+		"date"		"1695095417"
+		"addr"		"45.235.98.240:27035"
+	}
+	"server"
+	{
+		"name"		"#2 [ MDZ Gaming ] Public"
+		"date"		"1695095418"
+		"addr"		"45.235.98.68:27027"
+	}
+	"server"
+	{
+		"name"		"RPG для нубов"
+		"date"		"1695095419"
+		"addr"		"194.87.57.193:27180"
+	}
+	"server"
+	{
+		"name"		"CHAMA NO WHATSAPP"
+		"date"		"1695095420"
+		"addr"		"189.10.7.117:27015"
+	}
+	"server"
+	{
+		"name"		"[RUS] CSS =GOSPODA OFICERI="
+		"date"		"1695095421"
+		"addr"		"93.189.149.93:27010"
+	}
+	"server"
+	{
+		"name"		"[ZRiot Day: 1/8] //SRV3-14 FYN.IO CS:S-ZOMBIE RIOT//HARD"
+		"date"		"1695095422"
+		"addr"		"178.155.248.168:5239"
+	}
+	"server"
+	{
+		"name"		"Sarekuwa CS public"
+		"date"		"1695095424"
+		"addr"		"90.156.231.239:27015"
+	}
+	"server"
+	{
+		"name"		"-=CSS RIVNE SERVER |Dust2 ONLY|=-"
+		"date"		"1695095425"
+		"addr"		"77.123.21.209:27015"
+	}
+	"server"
+	{
+		"name"		"Star's Alliance Sunrise"
+		"date"		"1695095426"
+		"addr"		"217.119.29.211:27115"
+	}
+	"server"
+	{
+		"name"		"//SRV3-7 FYN.IO CS:S-FFA-DEATHMATCH//VANILLA MAPS 24/7"
+		"date"		"1695095427"
+		"addr"		"178.155.248.168:5218"
+	}
+	"server"
+	{
+		"name"		"//SRV3-1 FYN.IO CS:S-ZOMBIEMOD//NON-STOP LILA_PANIC 24/7"
+		"date"		"1695095428"
+		"addr"		"178.155.248.168:5200"
+	}
+	"server"
+	{
+		"name"		"[ZRiot Day: 1/8] //SRV3-13 FYN.IO CS:S-ZOMBIE RIOT//EASY"
+		"date"		"1695095429"
+		"addr"		"178.155.248.168:5236"
+	}
+	"server"
+	{
+		"name"		"//SRV3-11 FYN.IO CS:S-RANKED//DEFUSAL MAPS 24/7"
+		"date"		"1695095430"
+		"addr"		"178.155.248.168:5230"
+	}
+	"server"
+	{
+		"name"		"//SRV3-6 FYN.IO CS:S-HIDE-N-SEEK//VANILLA MAPS 24/7"
+		"date"		"1695095432"
+		"addr"		"178.155.248.168:5215"
+	}
+	"server"
+	{
+		"name"		"//SRV3-10 FYN.IO CS:S-SNIPERS//AWP MAPS 24/7"
+		"date"		"1695095433"
+		"addr"		"178.155.248.168:5227"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1695095434"
+		"addr"		"185.149.40.91:27017"
+	}
+	"server"
+	{
+		"name"		"OA TEST CS:S"
+		"date"		"1695095435"
+		"addr"		"91.235.116.37:27016"
+	}
+	"server"
+	{
+		"name"		"ANJOS DA NOITE BEST MAPS GAMEME"
+		"date"		"1695095436"
+		"addr"		"104.234.65.245:27400"
+	}
+	"server"
+	{
+		"name"		"GAMEHOST.COM.UA | CS:S OrangeBox | de_dust2 (Timeleft 0:01)"
+		"date"		"1695095437"
+		"addr"		"91.211.118.88:27090"
+	}
+	"server"
+	{
+		"name"		"[UA] CS:Source: Public"
+		"date"		"1695095438"
+		"addr"		"46.151.84.211:27015"
+	}
+	"server"
+	{
+		"name"		"//SRV3-9 FYN.IO CS:S-ASSASSINATION//FAST DL 24/7"
+		"date"		"1695095439"
+		"addr"		"178.155.248.168:5224"
+	}
+	"server"
+	{
+		"name"		"IRK PUBLIC by ZUBAT"
+		"date"		"1695095499"
+		"addr"		"80.92.207.4:27056"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] ™Ахуенный сервачек™[CSGOMAPS]"
+		"date"		"1695095500"
+		"addr"		"37.230.162.163:27015"
+	}
+	"server"
+	{
+		"name"		"¦SoCLan¦ - Classic “Неудержимые” |100Tick|"
+		"date"		"1695095501"
+		"addr"		"46.174.53.82:27015"
+	}
+	"server"
+	{
+		"name"		"[MIRAGE/DUST2 ONLY] umbRella Corporation 18+ [FREE SKINS CS:GO]"
+		"date"		"1695095561"
+		"addr"		"46.174.55.50:5555"
+	}
+	"server"
+	{
+		"name"		"VOLGOGRAD SERVER [FREE VIP]"
+		"date"		"1695095562"
+		"addr"		"46.174.49.59:27210"
+	}
+	"server"
+	{
+		"name"		"|>--RASSLABYXA.ru--<|_4_TeamDM EASY DD2unlim[<10ping]"
+		"date"		"1695095592"
+		"addr"		"79.120.114.212:27016"
+	}
+	"server"
+	{
+		"name"		"***SN~Дикий~Public(RuS)~NS***"
+		"date"		"1695095598"
+		"addr"		"185.231.245.242:27029"
+	}
+	"server"
+	{
+		"name"		"CSS Classic SPb NoSteam"
+		"date"		"1695095640"
+		"addr"		"94.19.94.163:27016"
+	}
+	"server"
+	{
+		"name"		"[GameArmy.ru] Легендарный GunGame! +FREE VIP"
+		"date"		"1695095657"
+		"addr"		"79.137.225.120:27015"
+	}
+	"server"
+	{
+		"name"		"{van} host server 12 of 18: deathmatch with easy bots!"
+		"date"		"1695095662"
+		"addr"		"77.37.141.72:27026"
+	}
+	"server"
+	{
+		"name"		"[-GAME4EX.RU-]|AUTOMIX #1| [В ожидании: 10]"
+		"date"		"1695095695"
+		"addr"		"46.174.52.25:27245"
+	}
+	"server"
+	{
+		"name"		"Ночные_Маньяки_DM"
+		"date"		"1695095702"
+		"addr"		"62.122.215.70:27015"
+	}
+	"server"
+	{
+		"name"		"Pablic18+TAXI CS SERVER V92"
+		"date"		"1695095717"
+		"addr"		"46.174.52.10:27215"
+	}
+	"server"
+	{
+		"name"		"Ilim-Telecom CS:S server"
+		"date"		"1695095932"
+		"addr"		"91.219.137.31:27015"
+	}
+	"server"
+	{
+		"name"		"Server Damas Gratis"
+		"date"		"1695095934"
+		"addr"		"190.48.89.49:27015"
+	}
+	"server"
+	{
+		"name"		"614 Team CS:S Server"
+		"date"		"1695095935"
+		"addr"		"91.220.145.100:27015"
+	}
+	"server"
+	{
+		"name"		"¦Ξ Arsenall.NET Ξ¦ WarcraftSource"
+		"date"		"1695095936"
+		"addr"		"46.166.94.104:27017"
+	}
+	"server"
+	{
+		"name"		"KEMEPOBO"
+		"date"		"1695095937"
+		"addr"		"176.196.37.41:27015"
+	}
+	"server"
+	{
+		"name"		"GameTech WarMod | Match Server"
+		"date"		"1695095938"
+		"addr"		"185.25.60.75:27016"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru / DM FFA"
+		"date"		"1695095939"
+		"addr"		"37.230.137.203:27066"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] ВЕЧНАЯ ВЛАСТЬ © [S-P-W.RU]"
+		"date"		"1695095941"
+		"addr"		"37.230.137.240:7777"
+	}
+	"server"
+	{
+		"name"		"[TR#1] VortéX™ | FULLMOD | discord.gg/vortexcss | [100]TICK"
+		"date"		"1695095942"
+		"addr"		"185.29.121.101:27015"
+	}
+	"server"
+	{
+		"name"		"¦SoCLan¦ - Training “DeBuJIoB_NET” |66Tick|"
+		"date"		"1695095943"
+		"addr"		"37.230.228.35:27006"
+	}
+	"server"
+	{
+		"name"		"7/24 Karma 5vs5 /DOSTLAR MEKANI/"
+		"date"		"1695095944"
+		"addr"		"185.29.121.109:27015"
+	}
+	"server"
+	{
+		"name"		"DE_DUST2 | ЧИЛОВЫЙ СЕРВЕР #1"
+		"date"		"1695095945"
+		"addr"		"109.195.19.84:7010"
+	}
+	"server"
+	{
+		"name"		"CSMEGA-BG.COM | ZM:Reloaded | v.92 | !ShoP | HlstatsX | VIP"
+		"date"		"1695095946"
+		"addr"		"194.38.38.154:27016"
+	}
+	"server"
+	{
+		"name"		"***ЧЕСТНЫЙ СЕРВЕР***18+ .:RU:."
+		"date"		"1695095948"
+		"addr"		"37.230.228.145:7777"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #14 /  Ожидание: +10"
+		"date"		"1695095949"
+		"addr"		"37.230.137.203:27028"
+	}
+	"server"
+	{
+		"name"		"Sweet Dreams [PUBLIC _18+_RUS]"
+		"date"		"1695095950"
+		"addr"		"46.174.48.48:27213"
+	}
+	"server"
+	{
+		"name"		"ScorpioN™ CLAN | Public Arena Server | 128 Tick Rate"
+		"date"		"1695095951"
+		"addr"		"185.29.121.64:27015"
+	}
+	"server"
+	{
+		"name"		"[DM] PULI4KI 18+ / Puli4ki.ru"
+		"date"		"1695095952"
+		"addr"		"46.174.54.173:27015"
+	}
+	"server"
+	{
+		"name"		"Pro/Public Sunucu | www.TURKCS.net | CS:S"
+		"date"		"1695095953"
+		"addr"		"185.29.121.122:27015"
+	}
+	"server"
+	{
+		"name"		"Сервер переехал на 37.230.137.201:44444"
+		"date"		"1695095955"
+		"addr"		"45.136.204.207:27015"
+	}
+	"server"
+	{
+		"name"		"[WAFG] AWP DeathMatch :: WAFGAMERS.COM ::"
+		"date"		"1695095956"
+		"addr"		"45.136.204.15:27015"
+	}
+	"server"
+	{
+		"name"		"[CS:GO] EnD PUBLIC [!CW, SKIN, FREEVIP] |100tick| |АНТИЧИ"
+		"date"		"1695095957"
+		"addr"		"62.122.214.134:4444"
+	}
+	"server"
+	{
+		"name"		"CSMEGA-BG.COM | Death-Match |v.92| !ShoP | HlstatsX | VIP"
+		"date"		"1695095958"
+		"addr"		"194.38.38.154:27017"
+	}
+	"server"
+	{
+		"name"		"█ KillServers █ #2 Убойный ★GGDM★"
+		"date"		"1695095959"
+		"addr"		"37.230.137.228:27002"
+	}
+	"server"
+	{
+		"name"		"Rafadan Tayfa"
+		"date"		"1695095960"
+		"addr"		"185.29.121.6:27015"
+	}
+	"server"
+	{
+		"name"		"[V92] Чистый Кайф [FREE_VIP]"
+		"date"		"1695095961"
+		"addr"		"37.230.137.201:44444"
+	}
+	"server"
+	{
+		"name"		"Новый Сервер от MyArena.ru"
+		"date"		"1695095963"
+		"addr"		"46.174.55.244:27015"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #13 /AIM/  Ожидание: +4"
+		"date"		"1695095964"
+		"addr"		"37.230.137.203:27027"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #4 /SKD/  Ожидание: +10"
+		"date"		"1695095965"
+		"addr"		"37.230.137.203:27018"
+	}
+	"server"
+	{
+		"name"		"CSMEGA-BG.COM | Classic |v.92| !ShoP | HlstatsX | VIP"
+		"date"		"1695095966"
+		"addr"		"194.38.38.154:27015"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #5 /SKD/  Ожидание: +10"
+		"date"		"1695095967"
+		"addr"		"37.230.137.203:27019"
+	}
+	"server"
+	{
+		"name"		"► PERFECT FOX MIX ► [В ожидании: 10]"
+		"date"		"1695095968"
+		"addr"		"46.174.52.25:27268"
+	}
+	"server"
+	{
+		"name"		"•ОПАСНЫЙ КВАРТАЛ• [ONLY DUST2 : 18+]"
+		"date"		"1695095970"
+		"addr"		"37.230.137.141:27015"
+	}
+	"server"
+	{
+		"name"		"Counter-Strike: Source"
+		"date"		"1695095971"
+		"addr"		"185.117.153.209:27015"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #6 /SKD/  Ожидание: +10"
+		"date"		"1695095972"
+		"addr"		"37.230.137.203:27020"
+	}
+	"server"
+	{
+		"name"		"Дениски GG [ или 32 млн. фрагов;]]"
+		"date"		"1695095973"
+		"addr"		"37.230.228.99:27015"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #8 /SKD/  Ожидание: +10"
+		"date"		"1695095974"
+		"addr"		"37.230.137.203:27022"
+	}
+	"server"
+	{
+		"name"		"¦SoCLan¦ - GunGame “Красное Мясо” |100Tick|"
+		"date"		"1695095975"
+		"addr"		"37.230.228.46:27002"
+	}
+	"server"
+	{
+		"name"		"[WAFG] DEATHMATCH#2 cs_office :: WAFGAMERS.COM ::"
+		"date"		"1695095977"
+		"addr"		"45.136.205.41:27015"
+	}
+	"server"
+	{
+		"name"		"[CSGOMAPS](#Ахуенный сервачек#)"
+		"date"		"1695095978"
+		"addr"		"45.136.205.127:27015"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #9 /AIM/  Ожидание: +4"
+		"date"		"1695095979"
+		"addr"		"37.230.137.203:27023"
+	}
+	"server"
+	{
+		"name"		"ExtremeMinigame [NoSteam|NCS SHOP|3 JUMP]"
+		"date"		"1695095980"
+		"addr"		"193.19.119.53:27020"
+	}
+	"server"
+	{
+		"name"		"ZonA_DЕГродаЦИИ GG (STEAM+ NO-STEAM)"
+		"date"		"1695095981"
+		"addr"		"45.136.204.148:27015"
+	}
+	"server"
+	{
+		"name"		"Only Dust 2 |18+| Tickrate 100"
+		"date"		"1695095982"
+		"addr"		"37.230.228.64:27070"
+	}
+	"server"
+	{
+		"name"		"CSMEGA-BG.COM | Dust 2 OnlY |v.92| !Shop | HlstatsX | VIP"
+		"date"		"1695095984"
+		"addr"		"194.38.38.154:27018"
+	}
+	"server"
+	{
+		"name"		"► PANDA ► de_nightfever ► 10/64"
+		"date"		"1695095985"
+		"addr"		"37.230.228.54:1337"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #7 /SKD/  Ожидание: +10"
+		"date"		"1695095986"
+		"addr"		"37.230.137.203:27021"
+	}
+	"server"
+	{
+		"name"		"RGMIX.ru #12 /  Ожидание: +9"
+		"date"		"1695095987"
+		"addr"		"37.230.137.203:27026"
+	}
 }
