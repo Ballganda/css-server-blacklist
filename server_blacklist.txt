@@ -2,6 +2,48 @@
 {
 	"server"
 	{
+		"name"		"BallGandafilter 89.169.9.25:0"
+		"date"		"1728053987"
+		"addr"		"89.169.9.25:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 93.183.69.182:0"
+		"date"		"1728054040"
+		"addr"		"93.183.69.182:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 185.236.23.219:0"
+		"date"		"1728054093"
+		"addr"		"185.236.23.219:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 194.147.35.216:0"
+		"date"		"1728054132"
+		"addr"		"194.147.35.216:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 77.83.246.78:0"
+		"date"		"1728054278"
+		"addr"		"77.83.246.78:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 209.200.246.174:0"
+		"date"		"1728054475"
+		"addr"		"209.200.246.174:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 51.68.143.140:0"
+		"date"		"1728054610"
+		"addr"		"51.68.143.140:0"
+	}
+	"server"
+	{
 		"name"		"BallGandafilter 80.97.49.42"
 		"date"		"1709427551"
 		"addr"		"80.97.49.42:0"
