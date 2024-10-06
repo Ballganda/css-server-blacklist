@@ -2,6 +2,24 @@
 {
 	"server"
 	{
+		"name"		"BallGandafilter 91.132.134.76:0"
+		"date"		"1728053999"
+		"addr"		"91.132.134.76:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 188.127.247.120:0"
+		"date"		"1728053999"
+		"addr"		"188.127.247.120:0"
+	}
+	"server"
+	{
+		"name"		"BallGandafilter 213.183.63.201:0"
+		"date"		"1728053999"
+		"addr"		"213.183.63.201:0"
+	}
+	"server"
+	{
 		"name"		"BallGandafilter 89.169.9.25:0"
 		"date"		"1728053987"
 		"addr"		"89.169.9.25:0"
