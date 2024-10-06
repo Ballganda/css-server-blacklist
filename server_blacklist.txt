@@ -140,12 +140,6 @@
 	}
 	"server"
 	{
-		"name"		"BallGandafilter 62.133.60.237"
-		"date"		"1725205257"
-		"addr"		"62.133.60.237:0"
-	}
-	"server"
-	{
 		"name"		"BallGandafilter 38.180.80.162"
 		"date"		"1725205257"
 		"addr"		"38.180.80.162:0"
