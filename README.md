@@ -1,14 +1,17 @@
 # CS:S-server-blacklist
 
+
 This is my server blacklist file to block the giant cess pool of fake servers that started to appear is CS:S in 2023  
 
-I will update as I notice my browser filling up again with trash.
+I will update as I notice my browser filling up again with trash.  
 
-This scripted version is testing some automation of the process.
-blacklist-css-rbs-manual.txt
-whitelist-css-rbs-manual.txt
-These new files are the manual override files to filter with.
-Example listings in server_blacklist.txt
+This scripted version is testing some automation of the process.  
+blacklist-css-rbs-manual.txt  
+whitelist-css-rbs-manual.txt  
+These new files are the manual override files to filter with.  
+Example listings in server_blacklist.txt  
+
+```
 	"server"
     {
         "name"        "ReduceBS 164.132.201.109 M #BS:1"
@@ -21,7 +24,8 @@ Example listings in server_blacklist.txt
         "date"        "1728651914"
         "addr"        "178.172.212.169:0"
     }
-A = Auto, M = Manual, #BS = detected server instances on this IP of BrowserSpam at the date listed	
+A = Auto, M = Manual, #BS = detected server instances on this IP of BrowserSpam at the date listed
+```
 
 -BallGanda  
 
