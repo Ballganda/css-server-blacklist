@@ -2,13 +2,13 @@
 
 This is my server blacklist file to block the giant cess pool of fake servers that started to appear is CS:S in 2023  
 
-##If you still have spam in your CS:S browser after installing this sort them by IP address in browser and report any unique IPs as an issue here in the issues section. Please we need to work together to clear this spam.
+## If you still have spam in your CS:S browser after installing this sort them by IP address in browser and report any unique IPs as an issue here in the issues section. Please we need to work together to clear this spam.
 
 I will update as I notice my browser filling up again with trash.   
 
 -BallGanda  
 
-#Guide from another user on steam with pictures. Use his guide with my updated file
+# Guide from another user on steam with pictures. Use his guide with my updated file
 https://steamcommunity.com/sharedfiles/filedetails/?id=3013281836  
   
 or text instructions here...  
