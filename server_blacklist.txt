@@ -1,837 +1,477 @@
 "serverblacklist"
 {
-	"server"
-	{
-		"name"		"BallGandafilter 91.132.134.76:0"
-		"date"		"1728053999"
-		"addr"		"91.132.134.76:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 188.127.247.120:0"
-		"date"		"1728053999"
-		"addr"		"188.127.247.120:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 213.183.63.201:0"
-		"date"		"1728053999"
-		"addr"		"213.183.63.201:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 89.169.9.25:0"
-		"date"		"1728053987"
-		"addr"		"89.169.9.25:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 93.183.69.182:0"
-		"date"		"1728054040"
-		"addr"		"93.183.69.182:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 185.236.23.219:0"
-		"date"		"1728054093"
-		"addr"		"185.236.23.219:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 194.147.35.216:0"
-		"date"		"1728054132"
-		"addr"		"194.147.35.216:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 77.83.246.78:0"
-		"date"		"1728054278"
-		"addr"		"77.83.246.78:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 209.200.246.174:0"
-		"date"		"1728054475"
-		"addr"		"209.200.246.174:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 51.68.143.140:0"
-		"date"		"1728054610"
-		"addr"		"51.68.143.140:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 80.97.49.42"
-		"date"		"1709427551"
-		"addr"		"80.97.49.42:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 178.172.212.169"
-		"date"		"1709427551"
-		"addr"		"178.172.212.169:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 91.231.182.127"
-		"date"		"1709427551"
-		"addr"		"91.231.182.127:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 87.251.66.220"
-		"date"		"1709427551"
-		"addr"		"87.251.66.220:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 146.59.83.108"
-		"date"		"1709427551"
-		"addr"		"146.59.83.108:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 195.226.192.89"
-		"date"		"1709427551"
-		"addr"		"195.226.192.89:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 188.225.11.9"
-		"date"		"1709427551"
-		"addr"		"188.225.11.9:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 193.169.195.2"
-		"date"		"1709427551"
-		"addr"		"193.169.195.2:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 46.229.212.90"
-		"date"		"1709427551"
-		"addr"		"46.229.212.90:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 51.38.114.152"
-		"date"		"1725205257"
-		"addr"		"51.38.114.152:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 62.133.60.237"
-		"date"		"1725205257"
-		"addr"		"62.133.60.237:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 193.233.75.144"
-		"date"		"1725205257"
-		"addr"		"193.233.75.144:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 94.23.251.21"
-		"date"		"1725205257"
-		"addr"		"94.23.251.21:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 38.180.80.162"
-		"date"		"1725205257"
-		"addr"		"38.180.80.162:0"
-	}
-	"server"
-	{
-		"name"		"BallGandafilter 45.59.170.64"
-		"date"		"1725205257"
-		"addr"		"45.59.170.64:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 5.39.91.222"
-		"date"		"1725201199"
-		"addr"		"5.39.91.222:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 164.132.202.2"
-		"date"		"1725201199"
-		"addr"		"164.132.202.2:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.49.195"
-		"date"		"1725201199"
-		"addr"		"178.32.49.195:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.165.54.71"
-		"date"		"1725201199"
-		"addr"		"188.165.54.71:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.45.131"
-		"date"		"1725201199"
-		"addr"		"178.32.45.131:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.101.187"
-		"date"		"1725201199"
-		"addr"		"178.32.101.187:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.109.127"
-		"date"		"1725201199"
-		"addr"		"178.32.109.127:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.111.68"
-		"date"		"1725201199"
-		"addr"		"178.32.111.68:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.23.165.166"
-		"date"		"1725201199"
-		"addr"		"94.23.165.166:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.165.130.77"
-		"date"		"1725201199"
-		"addr"		"188.165.130.77:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.110.95"
-		"date"		"1725201199"
-		"addr"		"178.32.110.95:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.113.96"
-		"date"		"1725201199"
-		"addr"		"178.32.113.96:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.23.148.95"
-		"date"		"1725201199"
-		"addr"		"94.23.148.95:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.23.68.215"
-		"date"		"1725201199"
-		"addr"		"94.23.68.215:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.110.35"
-		"date"		"1725201199"
-		"addr"		"178.32.110.35:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.121.160"
-		"date"		"1725201199"
-		"addr"		"178.32.121.160:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 142.4.210.168"
-		"date"		"1725201199"
-		"addr"		"142.4.210.168:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.112.159"
-		"date"		"1725201199"
-		"addr"		"178.32.112.159:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.117.110"
-		"date"		"1725201199"
-		"addr"		"178.32.117.110:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 51.178.41.127"
-		"date"		"1725201199"
-		"addr"		"51.178.41.127:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 135.125.107.209"
-		"date"		"1725201199"
-		"addr"		"135.125.107.209:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.48.53"
-		"date"		"1725201199"
-		"addr"		"178.32.48.53:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.23.173.248"
-		"date"		"1725201199"
-		"addr"		"94.23.173.248:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.165.6.153"
-		"date"		"1725201199"
-		"addr"		"188.165.6.153:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.165.184.118"
-		"date"		"1725201199"
-		"addr"		"188.165.184.118:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 54.36.45.248"
-		"date"		"1725201199"
-		"addr"		"54.36.45.248:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.33.39.169"
-		"date"		"1725201199"
-		"addr"		"178.33.39.169:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 92.222.235.131"
-		"date"		"1725201199"
-		"addr"		"92.222.235.131:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 51.68.236.45"
-		"date"		"1725201199"
-		"addr"		"51.68.236.45:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.46.89"
-		"date"		"1725201199"
-		"addr"		"178.32.46.89:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 213.32.108.79"
-		"date"		"1725201199"
-		"addr"		"213.32.108.79:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.23.68.241"
-		"date"		"1725201199"
-		"addr"		"94.23.68.241:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 54.37.178.201"
-		"date"		"1725201199"
-		"addr"		"54.37.178.201:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.32.206.219"
-		"date"		"1725201199"
-		"addr"		"178.32.206.219:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.134.218.181"
-		"date"		"1725201199"
-		"addr"		"91.134.218.181:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.165.27.233"
-		"date"		"1725201199"
-		"addr"		"188.165.27.233:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 178.33.116.130"
-		"date"		"1725201199"
-		"addr"		"178.33.116.130:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 151.80.47.196"
-		"date"		"1725201199"
-		"addr"		"151.80.47.196:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 158.69.22.27"
-		"date"		"1725201199"
-		"addr"		"158.69.22.27:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 23.26.247.10"
-		"date"		"1725201199"
-		"addr"		"23.26.247.10:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 164.132.201.109"
-		"date"		"1725201199"
-		"addr"		"164.132.201.109:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 193.233.80.224"
-		"date"		"1725201199"
-		"addr"		"193.233.80.224:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 193.233.164.16"
-		"date"		"1725201199"
-		"addr"		"193.233.164.16:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 46.174.54.14"
-		"date"		"1725201199"
-		"addr"		"46.174.54.14:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 23.26.247.105"
-		"date"		"1725201199"
-		"addr"		"23.26.247.105:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 77.222.37.82"
-		"date"		"1725201199"
-		"addr"		"77.222.37.82:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 89.223.30.194"
-		"date"		"1725201199"
-		"addr"		"89.223.30.194:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 45.87.155.193"
-		"date"		"1725201199"
-		"addr"		"45.87.155.193:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.60.42"
-		"date"		"1725201199"
-		"addr"		"91.219.60.42:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.250.150.83"
-		"date"		"1725201199"
-		"addr"		"185.250.150.83:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.250.149.93"
-		"date"		"1725201199"
-		"addr"		"185.250.149.93:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.150.201"
-		"date"		"1725201199"
-		"addr"		"91.219.150.201:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.149.6"
-		"date"		"1725201199"
-		"addr"		"91.219.149.6:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 89.111.131.172"
-		"date"		"1725201199"
-		"addr"		"89.111.131.172:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.217.77.24"
-		"date"		"1725201199"
-		"addr"		"91.217.77.24:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.150.244"
-		"date"		"1725201199"
-		"addr"		"91.219.150.244:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 46.17.46.10"
-		"date"		"1725201199"
-		"addr"		"46.17.46.10:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.148.13"
-		"date"		"1725201199"
-		"addr"		"91.219.148.13:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.149.4"
-		"date"		"1725201199"
-		"addr"		"91.219.149.4:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 46.8.220.208"
-		"date"		"1725201199"
-		"addr"		"46.8.220.208:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 213.248.43.15"
-		"date"		"1725201199"
-		"addr"		"213.248.43.15:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 89.111.131.181"
-		"date"		"1725201199"
-		"addr"		"89.111.131.181:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.127.230.42"
-		"date"		"1725201199"
-		"addr"		"188.127.230.42:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 193.108.113.80"
-		"date"		"1725201199"
-		"addr"		"193.108.113.80:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 85.159.228.29"
-		"date"		"1725201199"
-		"addr"		"85.159.228.29:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.193.180.135"
-		"date"		"1725201199"
-		"addr"		"91.193.180.135:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 193.42.112.106"
-		"date"		"1725201199"
-		"addr"		"193.42.112.106:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.84.162.180"
-		"date"		"1725201199"
-		"addr"		"185.84.162.180:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.84.162.112"
-		"date"		"1725201199"
-		"addr"		"185.84.162.112:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.224.168.29"
-		"date"		"1725201199"
-		"addr"		"91.224.168.29:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 46.174.54.142"
-		"date"		"1725201199"
-		"addr"		"46.174.54.142:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.127.241.129"
-		"date"		"1725201199"
-		"addr"		"188.127.241.129:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.131.2.249"
-		"date"		"1725201199"
-		"addr"		"94.131.2.249:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.225.85.22"
-		"date"		"1725201199"
-		"addr"		"188.225.85.22:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 45.153.69.155"
-		"date"		"1725201199"
-		"addr"		"45.153.69.155:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 149.202.65.122"
-		"date"		"1725201199"
-		"addr"		"149.202.65.122:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.211.118.149"
-		"date"		"1725201199"
-		"addr"		"91.211.118.149:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 45.140.146.234"
-		"date"		"1725201199"
-		"addr"		"45.140.146.234:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 5.182.37.165"
-		"date"		"1725201199"
-		"addr"		"5.182.37.165:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 5.182.38.136"
-		"date"		"1725201199"
-		"addr"		"5.182.38.136:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 45.128.185.230"
-		"date"		"1725201199"
-		"addr"		"45.128.185.230:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 45.151.232.8"
-		"date"		"1725201199"
-		"addr"		"45.151.232.8:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 189.1.173.126"
-		"date"		"1725201199"
-		"addr"		"189.1.173.126:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 151.80.47.196"
-		"date"		"1725201199"
-		"addr"		"151.80.47.196:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 164.132.202.2"
-		"date"		"1725201199"
-		"addr"		"164.132.202.2:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 195.189.226.184"
-		"date"		"1725201199"
-		"addr"		"195.189.226.184:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.135.86.224"
-		"date"		"1725201199"
-		"addr"		"185.135.86.224:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 77.222.52.251"
-		"date"		"1725201199"
-		"addr"		"77.222.52.251:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 87.236.146.117"
-		"date"		"1725201199"
-		"addr"		"87.236.146.117:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 5.252.23.61"
-		"date"		"1725201199"
-		"addr"		"5.252.23.61:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 193.169.228.28"
-		"date"		"1725201199"
-		"addr"		"193.169.228.28:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 193.233.80.244"
-		"date"		"1725201199"
-		"addr"		"193.233.80.244:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.128.107.79"
-		"date"		"1725201199"
-		"addr"		"185.128.107.79:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 188.127.224.78"
-		"date"		"1725201199"
-		"addr"		"188.127.224.78:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.199.45.85"
-		"date"		"1725201199"
-		"addr"		"91.199.45.85:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.117.154.98"
-		"date"		"1725201199"
-		"addr"		"185.117.154.98:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.248.100.98"
-		"date"		"1725201199"
-		"addr"		"185.248.100.98:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.158.114.143"
-		"date"		"1725201199"
-		"addr"		"185.158.114.143:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 84.252.74.127"
-		"date"		"1725201199"
-		"addr"		"84.252.74.127:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 46.138.247.193"
-		"date"		"1725201199"
-		"addr"		"46.138.247.193:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.117.155.5"
-		"date"		"1725201199"
-		"addr"		"185.117.155.5:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.142.140.200"
-		"date"		"1725201199"
-		"addr"		"94.142.140.200:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 94.142.139.106"
-		"date"		"1725201199"
-		"addr"		"94.142.139.106:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 109.248.11.124"
-		"date"		"1725201199"
-		"addr"		"109.248.11.124:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 109.248.11.9"
-		"date"		"1725201199"
-		"addr"		"109.248.11.9:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 91.219.150.120"
-		"date"		"1725201199"
-		"addr"		"91.219.150.120:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 109.248.11.10"
-		"date"		"1725201199"
-		"addr"		"109.248.11.10:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 5.8.64.202"
-		"date"		"1725201199"
-		"addr"		"5.8.64.202:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 37.220.86.15"
-		"date"		"1725201199"
-		"addr"		"37.220.86.15:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 89.111.140.62"
-		"date"		"1725201199"
-		"addr"		"89.111.140.62:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 89.179.240.119"
-		"date"		"1725201199"
-		"addr"		"89.179.240.119:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 185.128.107.79"
-		"date"		"1725201199"
-		"addr"		"185.128.107.79:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 62.173.149.184"
-		"date"		"1725201199"
-		"addr"		"62.173.149.184:0"
-	}
-	"server"
-	{
-		"name"		"Spamfilter 146.185.218.172"
-		"date"		"1725201199"
-		"addr"		"146.185.218.172:0"
-	}
+    "server"
+    {
+        "name"        "ReduceBS 109.248.11.9 A #BS:262"
+        "date"        "1728651914"
+        "addr"        "109.248.11.9:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 146.59.83.108 A #BS:20"
+        "date"        "1728651914"
+        "addr"        "146.59.83.108:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 164.132.201.109 M #BS:1"
+        "date"        "1728651914"
+        "addr"        "164.132.201.109:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 178.172.212.169 A #BS:33"
+        "date"        "1728651914"
+        "addr"        "178.172.212.169:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 178.32.206.219 M #BS:4"
+        "date"        "1728651914"
+        "addr"        "178.32.206.219:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 188.225.11.9 A #BS:37"
+        "date"        "1728651914"
+        "addr"        "188.225.11.9:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 194.147.35.216 A #BS:57"
+        "date"        "1728651914"
+        "addr"        "194.147.35.216:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 195.226.192.89 M #BS:5"
+        "date"        "1728651914"
+        "addr"        "195.226.192.89:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 209.200.246.174 M #BS:6"
+        "date"        "1728651914"
+        "addr"        "209.200.246.174:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 38.180.80.162 M #BS:2"
+        "date"        "1728651914"
+        "addr"        "38.180.80.162:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 45.153.229.94 A #BS:10000"
+        "date"        "1728651914"
+        "addr"        "45.153.229.94:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 45.59.170.64 M #BS:8"
+        "date"        "1728651914"
+        "addr"        "45.59.170.64:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 46.174.54.142 M #BS:1"
+        "date"        "1728651914"
+        "addr"        "46.174.54.142:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 46.229.212.90 A #BS:30"
+        "date"        "1728651914"
+        "addr"        "46.229.212.90:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 51.38.114.152 A #BS:21"
+        "date"        "1728651914"
+        "addr"        "51.38.114.152:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 80.97.49.42 A #BS:26"
+        "date"        "1728651914"
+        "addr"        "80.97.49.42:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 84.252.74.127 A #BS:3299"
+        "date"        "1728651914"
+        "addr"        "84.252.74.127:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 89.179.240.119 M #BS:14"
+        "date"        "1728651914"
+        "addr"        "89.179.240.119:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.211.118.149 M #BS:1"
+        "date"        "1728651914"
+        "addr"        "91.211.118.149:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.231.182.127 A #BS:16"
+        "date"        "1728651914"
+        "addr"        "91.231.182.127:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 121.127.37.35 A #BS:184"
+        "date"        "1728651914"
+        "addr"        "121.127.37.35:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 146.185.196.17 A #BS:741"
+        "date"        "1728651914"
+        "addr"        "146.185.196.17:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 146.185.198.11 A #BS:1217"
+        "date"        "1728651914"
+        "addr"        "146.185.198.11:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 146.185.199.60 A #BS:389"
+        "date"        "1728651914"
+        "addr"        "146.185.199.60:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 146.185.215.50 A #BS:899"
+        "date"        "1728651914"
+        "addr"        "146.185.215.50:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 146.185.218.172 A #BS:531"
+        "date"        "1728651914"
+        "addr"        "146.185.218.172:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 147.45.193.171 A #BS:1023"
+        "date"        "1728651914"
+        "addr"        "147.45.193.171:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 151.252.104.37 A #BS:6693"
+        "date"        "1728651914"
+        "addr"        "151.252.104.37:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.135.86.224 A #BS:2427"
+        "date"        "1728651914"
+        "addr"        "185.135.86.224:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.158.114.143 A #BS:799"
+        "date"        "1728651914"
+        "addr"        "185.158.114.143:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.234.114.182 A #BS:257"
+        "date"        "1728651914"
+        "addr"        "185.234.114.182:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.236.23.219 A #BS:51"
+        "date"        "1728651914"
+        "addr"        "185.236.23.219:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.244.50.245 A #BS:1827"
+        "date"        "1728651914"
+        "addr"        "185.244.50.245:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.248.100.98 A #BS:879"
+        "date"        "1728651914"
+        "addr"        "185.248.100.98:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 185.40.78.211 A #BS:3189"
+        "date"        "1728651914"
+        "addr"        "185.40.78.211:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 188.127.224.78 A #BS:4058"
+        "date"        "1728651914"
+        "addr"        "188.127.224.78:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 188.127.241.129 A #BS:194"
+        "date"        "1728651914"
+        "addr"        "188.127.241.129:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 192.145.99.55 A #BS:934"
+        "date"        "1728651914"
+        "addr"        "192.145.99.55:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 193.19.119.167 A #BS:8526"
+        "date"        "1728651914"
+        "addr"        "193.19.119.167:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 193.19.119.97 A #BS:4871"
+        "date"        "1728651914"
+        "addr"        "193.19.119.97:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 193.233.75.144 A #BS:5365"
+        "date"        "1728651914"
+        "addr"        "193.233.75.144:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 193.42.112.106 A #BS:2156"
+        "date"        "1728651914"
+        "addr"        "193.42.112.106:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 194.156.103.121 A #BS:4251"
+        "date"        "1728651914"
+        "addr"        "194.156.103.121:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 194.38.8.53 A #BS:638"
+        "date"        "1728651914"
+        "addr"        "194.38.8.53:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 194.38.9.141 A #BS:87"
+        "date"        "1728651914"
+        "addr"        "194.38.9.141:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 195.238.126.252 A #BS:3044"
+        "date"        "1728651914"
+        "addr"        "195.238.126.252:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 195.62.52.237 A #BS:1326"
+        "date"        "1728651914"
+        "addr"        "195.62.52.237:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 212.113.120.63 A #BS:1478"
+        "date"        "1728651914"
+        "addr"        "212.113.120.63:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 213.183.63.201 A #BS:70"
+        "date"        "1728651914"
+        "addr"        "213.183.63.201:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 45.140.146.234 A #BS:3654"
+        "date"        "1728651914"
+        "addr"        "45.140.146.234:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 45.153.68.222 A #BS:1868"
+        "date"        "1728651914"
+        "addr"        "45.153.68.222:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 45.89.190.236 A #BS:2616"
+        "date"        "1728651914"
+        "addr"        "45.89.190.236:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 5.101.218.188 A #BS:212"
+        "date"        "1728651914"
+        "addr"        "5.101.218.188:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 5.181.253.220 A #BS:4290"
+        "date"        "1728651914"
+        "addr"        "5.181.253.220:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 5.189.201.24 A #BS:265"
+        "date"        "1728651914"
+        "addr"        "5.189.201.24:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 5.252.193.7 A #BS:890"
+        "date"        "1728651914"
+        "addr"        "5.252.193.7:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 51.68.143.140 A #BS:80"
+        "date"        "1728651914"
+        "addr"        "51.68.143.140:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 62.133.60.237 A #BS:3032"
+        "date"        "1728651914"
+        "addr"        "62.133.60.237:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 62.173.149.184 A #BS:541"
+        "date"        "1728651914"
+        "addr"        "62.173.149.184:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 77.222.37.82 A #BS:1560"
+        "date"        "1728651914"
+        "addr"        "77.222.37.82:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 77.222.43.209 A #BS:7760"
+        "date"        "1728651914"
+        "addr"        "77.222.43.209:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 77.246.144.25 A #BS:197"
+        "date"        "1728651914"
+        "addr"        "77.246.144.25:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 77.83.246.78 A #BS:3044"
+        "date"        "1728651914"
+        "addr"        "77.83.246.78:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 80.87.107.150 A #BS:32"
+        "date"        "1728651914"
+        "addr"        "80.87.107.150:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 80.90.182.187 A #BS:2431"
+        "date"        "1728651914"
+        "addr"        "80.90.182.187:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 81.200.144.48 A #BS:3521"
+        "date"        "1728651914"
+        "addr"        "81.200.144.48:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 85.238.112.45 A #BS:1827"
+        "date"        "1728651914"
+        "addr"        "85.238.112.45:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 87.236.146.117 A #BS:4263"
+        "date"        "1728651914"
+        "addr"        "87.236.146.117:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 88.151.192.110 A #BS:17054"
+        "date"        "1728651914"
+        "addr"        "88.151.192.110:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 89.111.140.62 A #BS:3702"
+        "date"        "1728651914"
+        "addr"        "89.111.140.62:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 89.111.141.144 A #BS:4669"
+        "date"        "1728651914"
+        "addr"        "89.111.141.144:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 89.36.161.114 A #BS:188"
+        "date"        "1728651914"
+        "addr"        "89.36.161.114:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.199.45.85 A #BS:2434"
+        "date"        "1728651914"
+        "addr"        "91.199.45.85:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.201.54.243 A #BS:2036"
+        "date"        "1728651914"
+        "addr"        "91.201.54.243:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.219.149.6 A #BS:136"
+        "date"        "1728651914"
+        "addr"        "91.219.149.6:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.219.150.156 A #BS:3554"
+        "date"        "1728651914"
+        "addr"        "91.219.150.156:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 91.243.84.28 A #BS:207"
+        "date"        "1728651914"
+        "addr"        "91.243.84.28:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 92.38.130.240 A #BS:41"
+        "date"        "1728651914"
+        "addr"        "92.38.130.240:0"
+    }
+    "server"
+    {
+        "name"        "ReduceBS 92.38.130.31 A #BS:12"
+        "date"        "1728651914"
+        "addr"        "92.38.130.31:0"
+    }
 }
