@@ -29,6 +29,8 @@ Example listings in server_blacklist.txt
 A = Auto, M = Manual, #BS = detected server instances on this IP of BrowserSpam at the date listed
 ```
 
+![](https://raw.githubusercontent.com/Ballganda/css-server-blacklist/scripted-test/reducebs.PNG)
+
 -BallGanda  
 
 Guide from another user on steam with pictures. Use his guide with my updated file
