@@ -1,5 +1,83 @@
 "serverblacklist"
 {
+    "server"
+    {
+        "name"          "ReduceBS 193.53.127.31"
+        "date"          "1747308377"
+        "addr"          "193.53.127.31"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 195.133.46.122"
+        "date"          "1747308377"
+        "addr"          "195.133.46.122"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 178.57.217.143"
+        "date"          "1747308377"
+        "addr"          "178.57.217.143"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 45.141.100.55"
+        "date"          "1747308377"
+        "addr"          "45.141.100.55"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 195.58.54.195"
+        "date"          "1747308377"
+        "addr"          "195.58.54.195"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 195.133.45.92"
+        "date"          "1747308377"
+        "addr"          "195.133.45.92"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 185.189.13.78"
+        "date"          "1747308377"
+        "addr"          "185.189.13.78"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 77.105.133.227"
+        "date"          "1747308377"
+        "addr"          "77.105.133.227"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 79.174.86.25"
+        "date"          "1747308377"
+        "addr"          "79.174.86.25"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 80.66.89.213"
+        "date"          "1747308377"
+        "addr"          "80.66.89.213"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 185.221.162.95"
+        "date"          "1747308377"
+        "addr"          "185.221.162.95"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 195.137.244.40"
+        "date"          "1747308377"
+        "addr"          "195.137.244.40"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 185.246.118.216"
+        "date"          "1747308377"
+        "addr"          "185.246.118.216"
+    }
        "server"
     {
         "name"          "ReduceBS 195.137.244.42"
