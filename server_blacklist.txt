@@ -1,5 +1,101 @@
 "serverblacklist"
 {
+    "server"
+	{
+		"name"			"ReduceBS 37.233.84.150
+		"date"			"1747308377"
+		"addr"			"37.233.84.150"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 212.113.109.110"
+		"date"			"1747308377"
+		"addr"			"212.113.109.110"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 91.219.150.62"
+		"date"			"1747308377"
+		"addr"			"91.219.150.62
+	}
+    "server"
+	{
+		"name"			"ReduceBS 185.9.147.218"
+		"date"			"1747308377"
+		"addr"			"185.9.147.218"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 185.130.251.196"
+		"date"			"1747308377"
+		"addr"			"185.130.251.196"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 91.219.150.45"
+		"date"			"1747308377"
+		"addr"			"91.219.150.45"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 212.113.109.110"
+		"date"			"1747308377"
+		"addr"			"212.113.109.110"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 89.23.123.168"
+		"date"			"1747308377"
+		"addr"			"89.23.123.168"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 89.23.123.209"
+		"date"			"1747308377"
+		"addr"			"89.23.123.209"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 89.23.123.158"
+		"date"			"1747308377"
+		"addr"			"89.23.123.158"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 89.23.123.175"
+		"date"			"1747308377"
+		"addr"			"89.23.123.175"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 212.113.109.90"
+		"date"			"1747308377"
+		"addr"			"212.113.109.90"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 104.222.177.23"
+		"date"			"1747308377"
+		"addr"			"104.222.177.23"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 104.222.177.22"
+		"date"			"1747308377"
+		"addr"			"104.222.177.22"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 104.222.177.21"
+		"date"			"1747308377"
+		"addr"			"104.222.177.21"
+	}
+    "server"
+	{
+		"name"			"ReduceBS 212.113.109.111"
+		"date"			"1747308377"
+		"addr"			"212.113.109.111"
+	}
 	"server"
 	{
 		"name"			"ReduceBS 2.56.88.98"
