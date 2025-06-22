@@ -1,6 +1,55 @@
 "serverblacklist"
 {
     "server"
+    {
+        "name"          "ReduceBS 37.233.84.150"
+        "date"          "1747308377"
+        "addr"          "37.233.84.150"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 91.219.150.62"
+        "date"          "1747308377"
+        "addr"          "91.219.150.62"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 91.219.150.165"
+        "date"          "1747308377"
+        "addr"          "91.219.150.165"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 185.130.251.201"
+        "date"          "1747308377"
+        "addr"          "185.130.251.201"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 91.219.148.53"
+        "date"          "1747308377"
+        "addr"          "91.219.148.53"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 185.130.251.230"
+        "date"          "1747308377"
+        "addr"          "185.130.251.230"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 91.219.148.11"
+        "date"          "1747308377"
+        "addr"          "91.219.148.11"
+    }
+    "server"
+    {
+        "name"          "ReduceBS 185.9.147.215"
+        "date"          "1747308377"
+        "addr"          "185.9.147.215"
+    }
+
+    "server"
 	{
 		"name"			"ReduceBS 37.233.84.150
 		"date"			"1747308377"
